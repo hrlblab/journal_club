@@ -1,7 +1,7 @@
-# HRLB-Journal-Club
+# Journal-Club
 Time: Friday morning 10:00 - 10:30 AM, FGH 313
 
-- [HRLB-Journal-Club](#HRLAB-Journal-Club)
+- [Journal-Club](#Journal-Club)
 	- [Paper-Reading-Group](#paper-reading-group)
   
 ## Paper-Reading-Group
