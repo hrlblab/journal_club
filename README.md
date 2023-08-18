@@ -10,6 +10,6 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2023.8.25|1. Quan Liu     <br>  （Self-supervised Learning）  |[《EMP-SSL: Towards Self-Supervised Learning in One Training Epoch》 （CVPR 2023）](https://arxiv.org/abs/2304.03977)
-|2023.8.25|1. ??     <br>  （???）  |[《???》 （???）](???)
-|2023.8.25|1. ??     <br>  （???）  |[《???》 （???）](???)
+|2023.8.25|Quan Liu     <br>  （Self-supervised Learning）  |[《EMP-SSL: Towards Self-Supervised Learning in One Training Epoch》 （CVPR 2023）](https://arxiv.org/abs/2304.03977)
+|2023.8.25|??     <br>  （???）  |[《???》 （???）](???)
+|2023.8.25|??     <br>  （???）  |[《???》 （???）](???)
