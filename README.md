@@ -16,4 +16,4 @@ Agenda
 
 
 ## Pool of great papers from the team (Senior folks can drop papers here as potential papers to review)
-Ye, Shuquan, et al. "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [from Yuankai Huo]
+1. Ye, Shuquan, et al. "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [from Yuankai Huo]
