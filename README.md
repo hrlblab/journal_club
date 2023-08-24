@@ -19,3 +19,5 @@ Agenda
 1. Ye, Shuquan, et al. "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [from Yuankai Huo]
 
 1. Xie, Ronald, et al. "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [from Yuankai Huo]
+
+1. Huang, Zhi, et al. "A visual–language foundation model for pathology image analysis using medical Twitter." Nature Medicine (2023): 1-10. [from Yuankai Huo]
