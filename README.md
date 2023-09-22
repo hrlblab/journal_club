@@ -10,7 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning》 （AAAI 2023）]((https://arxiv.org/pdf/2206.08657.pdf)
+|2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning》 （AAAI 2023）](https://arxiv.org/pdf/2206.08657.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents》 （MICCAI 2023）](https://arxiv.org/pdf/2303.07240.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Representation disentanglement + segmentation）  |[《SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning》 （CVPR 2023）](https://arxiv.org/ftp/arxiv/papers/2304/2304.00145.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Semi-supervised Segmentation）  |[《Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation》 （CVPR 2023）](https://arxiv.org/pdf/2303.13090.pdf)
