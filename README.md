@@ -10,6 +10,10 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning》 （AAAI 2023）]((https://arxiv.org/pdf/2206.08657.pdf)
+|2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents》 （MICCAI 2023）](https://arxiv.org/pdf/2303.07240.pdf)
+|2023.9.22 | Tianyuan Yao  <br> （Representation disentanglement + segmentation）  |[《SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning》 （CVPR 2023）](https://arxiv.org/ftp/arxiv/papers/2304/2304.00145.pdf)
+|2023.9.22 | Tianyuan Yao  <br> （Semi-supervised Segmentation）  |[《Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation》 （CVPR 2023）](https://arxiv.org/pdf/2303.13090.pdf)
 |2023.9.15 | Ruining Deng  <br> （Prompt-based Segmentation）  |[《Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class》 （CVPR2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)
 |2023.9.15 | Ruining Deng  <br> （Prompt-based Segmentation）  |[《SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning》 （ICCV）](https://arxiv.org/pdf/2308.06531.pdf)
 |2023.9.15 | Ruining Deng  <br> （Prompt-based Segmentation）  |[《ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation》 （ArXiv）](https://arxiv.org/abs/2211.11514)
