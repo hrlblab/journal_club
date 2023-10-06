@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2023.9.22 | Dr. Huo  <br> （Visual language model）  |[《CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection》 （arxiv）](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf)
-|2023.9.22 | Dr. Huo  <br> （Fast data curation）  |[《Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks》 （ICCV 2023）](https://arxiv.org/pdf/2305.09666.pdf)
-|2023.9.22 | Dr. Huo  <br> （Tranformer backbone）  |[《UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation》 （MeDIA 2023）](https://browse.arxiv.org/pdf/2209.14378.pdf)
+|2023.10.6 | Dr. Huo  <br> （Visual language model）  |[《CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection》 （arxiv）](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf)
+|2023.10.6 | Dr. Huo  <br> （Fast data curation）  |[《Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks》 （ICCV 2023）](https://arxiv.org/pdf/2305.09666.pdf)
+|2023.10.6 | Dr. Huo  <br> （Tranformer backbone）  |[《UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation》 （MeDIA 2023）](https://browse.arxiv.org/pdf/2209.14378.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning》 （AAAI 2023）](https://arxiv.org/pdf/2206.08657.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Visual language model）  |[《PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents》 （MICCAI 2023）](https://arxiv.org/pdf/2303.07240.pdf)
 |2023.9.22 | Tianyuan Yao  <br> （Representation disentanglement + segmentation）  |[《Directional Connectivity-based Segmentation of Medical Images》 （CVPR 2023）](https://arxiv.org/ftp/arxiv/papers/2304/2304.00145.pdf)
