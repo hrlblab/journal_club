@@ -12,8 +12,7 @@ Agenda
 |---|:---:|---|---|
 |2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[《Anomaly Detection via Reverse Distillation from One-Class Embedding》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf)
 |2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[《Revisiting Reverse Distillation for Anomaly Detection》 （CVPR2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
-|2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction》 （NeurIPS）]
-(https://arxiv.org/abs/2306.02602)
+|2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction》 （NeurIPS）] (https://arxiv.org/abs/2306.02602)
 |2023.10.6 | Dr. Huo  <br> （Visual language model）  |[《CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection》 （arxiv）](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_CLIP-Driven_Universal_Model_for_Organ_Segmentation_and_Tumor_Detection_ICCV_2023_paper.pdf)
 |2023.10.6 | Dr. Huo  <br> （Fast data curation）  |[《Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks》 （ICCV 2023）](https://arxiv.org/pdf/2305.09666.pdf)
 |2023.10.6 | Dr. Huo  <br> （Tranformer backbone）  |[《UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation》 （MeDIA 2023）](https://browse.arxiv.org/pdf/2209.14378.pdf)
