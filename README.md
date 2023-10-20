@@ -12,7 +12,7 @@ Agenda
 |---|:---:|---|---|
 |2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[《Anomaly Detection via Reverse Distillation from One-Class Embedding》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf)
 |2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[《Revisiting Reverse Distillation for Anomaly Detection》 （CVPR2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
-|2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction》 （NeurIPS）] (https://arxiv.org/abs/2306.02602)
+|2023.10.20 | Can(Cathy) Cui  <br> （Anomaly Detection and Localization）  |[《ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction》 （NeurIPS）](https://arxiv.org/abs/2306.02602)
 |2023.10.13 | Yucheng Tang  <br> （Visual Language Foundation Model）  |[《Flamingo: a Visual Language Model for Few-Shot Learning》 (DeepMind)](https://arxiv.org/abs/2204.14198)
 |2023.10.13 | Yucheng Tang  <br> （Visual Language Foundation Model）  |[《PaLM: Scaling Language Modeling with Pathways》 (Google)](https://arxiv.org/abs/2204.02311)
 |2023.10.13 | Yucheng Tang  <br> （Visual Language Foundation Model）  |[《PaLM-E: An Embodied Multimodal Language Model》 (Google)](https://arxiv.org/abs/2303.03378)
