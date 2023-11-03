@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.11.03 | Junlin Guo  <br> （Long-Tailed Learning + Knowledge Distillation）  |[《Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation》 （CVPR 2023）](https://arxiv.org/pdf/2304.01279.pdf)
+|2023.11.03 | Junlin Guo  <br> （Universal instance cell segmentation）  |[《Cellpose: a generalist algorithm for cellular segmentation》 （Nature. 2021）](https://www.nature.com/articles/s41592-020-01018-x)
+|2023.11.03 | Junlin Guo  <br> （Universal instance cell segmentation + Harmony）  |[《MEDIAR: Harmony of Data-Centric and Model-Centric for Multi-Modality Microscopy》 （NeurIPS 2022）](http://arxiv.org/abs/2212.03465)
 |2023.10.27 | Marilyn Lionts  <br> （Variational Autoencoders and Active Learning）  |[《An Active Learning Method Based on Variational Autoencoder and DBSCAN Clustering》 （2021）](https://downloads.hindawi.com/journals/cin/2021/9952596.pdf)
 |2023.10.27 | Marilyn Lionts  <br> （Variational Autoencoders and Active Learning）  |[《The Power of Ensembles for Active Learning in Image Classification》 （CVPR 2018）](https://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)
 |2023.10.27 | Marilyn Lionts  <br> （Variational Autoencoders and Active Learning）  |[《Variational Adversarial Active Learning》 （ICCV 2019）](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.pdf)
