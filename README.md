@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.11.10 | Quan Liu  <br> （Visual Language Foundation Model）  |[《Multimodal Few-Shot Learning with Frozen Language Models》 （NeruIPS 2021）](https://arxiv.org/pdf/2106.13884.pdf)
+|2023.11.10 | Quan Liu  <br> （Visual Language Foundation Model）  |[《Frozen Transformers in Language Models Are Effective Visual Encoder Layers》 （arxiv）](https://arxiv.org/pdf/2310.12973.pdf)
+|2023.11.10 | Quan Liu  <br> （Tranformer CNN backbone comparison）  |[《ConvNets Match Vision Transformers at Scale》 （DeepMind）](https://arxiv.org/pdf/1905.03711.pdf)
 |2023.11.03 | Junlin Guo  <br> （Long-Tailed Learning + Knowledge Distillation）  |[《Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation》 （CVPR 2023）](https://arxiv.org/pdf/2304.01279.pdf)
 |2023.11.03 | Junlin Guo  <br> （Universal instance cell segmentation）  |[《Cellpose: a generalist algorithm for cellular segmentation》 （Nature. 2021）](https://www.nature.com/articles/s41592-020-01018-x)
 |2023.11.03 | Junlin Guo  <br> （Universal instance cell segmentation + Harmony）  |[《MEDIAR: Harmony of Data-Centric and Model-Centric for Multi-Modality Microscopy》 （NeurIPS 2022）](http://arxiv.org/abs/2212.03465)
