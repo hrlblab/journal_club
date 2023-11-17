@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Visualization and Analysis of Gene Expression in Tissue Sections by Spatial Transcriptomics》 （Science 2016）](https://www.science.org/doi/10.1126/science.aaf2403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+|2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Spatially Resolved Transcriptomes—Next Generation Tools for Tissue Exploration》 （BioEssay 2020）](https://onlinelibrary.wiley.com/doi/full/10.1002/bies.201900221)
+|2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Alignment and Integration of Spatial Transcriptomics Data》 （Nature Method 2022）](https://www.nature.com/articles/s41592-022-01459-6)
 |2023.11.10 | Quan Liu  <br> （Visual Language Foundation Model）  |[《Multimodal Few-Shot Learning with Frozen Language Models》 （NeruIPS 2021）](https://arxiv.org/pdf/2106.13884.pdf)
 |2023.11.10 | Quan Liu  <br> （Visual Language Foundation Model）  |[《Frozen Transformers in Language Models Are Effective Visual Encoder Layers》 （arxiv）](https://arxiv.org/pdf/2310.12973.pdf)
 |2023.11.10 | Quan Liu  <br> （Tranformer CNN backbone comparison）  |[《ConvNets Match Vision Transformers at Scale》 （DeepMind）](https://arxiv.org/pdf/2310.16764.pdf)
