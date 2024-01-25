@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.01.12 | Yucheng Tang  <br> （Efficient ViT）  |[《EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction》 （ICCV 2023）](https://arxiv.org/pdf/2205.14756.pdf)
+|2024.01.12 | Yucheng Tang  <br> Sparse ViT）  |[《SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer》 (CVPR) 2023）](https://arxiv.org/pdf/2303.17605.pdf)
+|2024.01.12 | Yucheng Tang  <br> （Open-Vocabulary SAM）  |[《Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively》](https://arxiv.org/pdf/2401.02955.pdf)
 |2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Visualization and Analysis of Gene Expression in Tissue Sections by Spatial Transcriptomics》 （Science 2016）](https://www.science.org/doi/10.1126/science.aaf2403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 |2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Spatially Resolved Transcriptomes—Next Generation Tools for Tissue Exploration》 （BioEssay 2020）](https://onlinelibrary.wiley.com/doi/full/10.1002/bies.201900221)
 |2023.11.17 | Dr. Huo  <br> （Spatial Transcriptomics）  |[《Alignment and Integration of Spatial Transcriptomics Data》 （Nature Method 2022）](https://www.nature.com/articles/s41592-022-01459-6)
