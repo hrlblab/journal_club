@@ -55,8 +55,8 @@ Agenda
 |2023.8.25|Quan Liu     <br>  （Self-supervised Learning）  |[《EMP-SSL: Towards Self-Supervised Learning in One Training Epoch》 （CVPR 2023）](https://arxiv.org/abs/2304.03977)
 |2023.8.25|Quan Liu     <br>  （Visual language model + zero-shot learning）  |[《Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf)
 |2023.8.25|Quan Liu     <br>  （Image perturbation）  |[《Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/pdf/2208.09910.pdf)
-|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2308.00692.pdf)
-|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《A Foundational Multimodal Vision Language AI Assistant for Human Pathology》 （ArXiv）]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2308.00692.pdf](https://arxiv.org/html/2312.07814v1))
+|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf)
+|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《A Foundational Multimodal Vision Language AI Assistant for Human Pathology》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf](https://arxiv.org/html/2312.07814v1))
 
 
 
