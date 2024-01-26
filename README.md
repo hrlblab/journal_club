@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf)
+|2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《Making Large Multimodal Models Understand Arbitrary Visual Prompts 》(ArXiv）](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2312.00784.pdf)
+|2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《U-Mamba Enhancing Long-range Dependency for Biomedical Image Segmentation》(ArXiv）](https://wanglab.ai/u-mamba.html)
 |2024.01.12 | Yucheng Tang  <br> （Efficient ViT）  |[《EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction》 （ICCV 2023）](https://arxiv.org/pdf/2205.14756.pdf)
 |2024.01.12 | Yucheng Tang  <br> Sparse ViT）  |[《SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer》 (CVPR) 2023）](https://arxiv.org/pdf/2303.17605.pdf)
 |2024.01.12 | Yucheng Tang  <br> （Open-Vocabulary SAM）  |[《Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively》](https://arxiv.org/pdf/2401.02955.pdf)
@@ -55,9 +58,6 @@ Agenda
 |2023.8.25|Quan Liu     <br>  （Self-supervised Learning）  |[《EMP-SSL: Towards Self-Supervised Learning in One Training Epoch》 （CVPR 2023）](https://arxiv.org/abs/2304.03977)
 |2023.8.25|Quan Liu     <br>  （Visual language model + zero-shot learning）  |[《Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf)
 |2023.8.25|Quan Liu     <br>  （Image perturbation）  |[《Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/pdf/2208.09910.pdf)
-|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf)
-|2024.01.25|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《A Foundational Multimodal Vision Language AI Assistant for Human Pathology》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf](https://arxiv.org/html/2312.07814v1))
-
 
 
 
