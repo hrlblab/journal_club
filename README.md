@@ -11,7 +11,7 @@ Agenda
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf)
-|2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《Making Large Multimodal Models Understand Arbitrary Visual Prompts 》(ArXiv）](https://arxiv.org/pdf/2312.00784.pdf)
+|2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《Making Large Multimodal Models Understand Arbitrary Visual Prompts 》(ArXiv）] (https://arxiv.org/pdf/2312.00784.pdf)
 |2024.01.26|Can(Cathy) Cui     <br>  （Network Structure）  |[《U-Mamba Enhancing Long-range Dependency for Biomedical Image Segmentation》(ArXiv）](https://wanglab.ai/u-mamba.html)
 |2024.01.12 | Yucheng Tang  <br> （Efficient ViT）  |[《EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction》 （ICCV 2023）](https://arxiv.org/pdf/2205.14756.pdf)
 |2024.01.12 | Yucheng Tang  <br> Sparse ViT）  |[《SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer》 (CVPR) 2023）](https://arxiv.org/pdf/2303.17605.pdf)
