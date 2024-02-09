@@ -10,7 +10,6 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-
 |2024.02.09|Quan Liu     <br>  （Multi-modal Large Language Models (MLLM）  |[《Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization》（ArXiv）](https://arxiv.org/pdf/2309.04669.pdf)
 |2024.02.09|Quan Liu     <br>  （MLLM）  |[《GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest》(ArXiv）](https://jshilong.github.io/images/gpt4roi.pdf)
 |2024.02.09|Quan Liu     <br>  （MLLM）  |[《DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding》(ArXiv）](https://arxiv.org/pdf/2311.11810.pdf)
