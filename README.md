@@ -10,6 +10,10 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+
+|2024.02.09|Quan Liu     <br>  （Multi-modal Large Language Models (MLLM）  |[《Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization》（ArXiv）](https://arxiv.org/pdf/2309.04669.pdf)
+|2024.02.09|Quan Liu     <br>  （MLLM）  |[《GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest》(ArXiv）](https://jshilong.github.io/images/gpt4roi.pdf)
+|2024.02.09|Quan Liu     <br>  （MLLM）  |[《DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding》(ArXiv）](https://arxiv.org/pdf/2311.11810.pdf)
 |2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《LISA: Reasoning Segmentation via Large Language Model》 （ArXiv）](https://arxiv.org/pdf/2308.00692.pdf)
 |2024.01.26|Can(Cathy) Cui     <br>  （Visual Language Model）  |[《Making Large Multimodal Models Understand Arbitrary Visual Prompts 》(ArXiv）](https://arxiv.org/pdf/2312.00784.pdf)
 |2024.01.26|Can(Cathy) Cui     <br>  （Network Structure）  |[《U-Mamba Enhancing Long-range Dependency for Biomedical Image Segmentation》(ArXiv）](https://wanglab.ai/u-mamba.html)
