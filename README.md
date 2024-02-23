@@ -10,7 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.02.23|Tianyuan Yao    <br>  （Machine unlearning）  |[《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models]([https://arxiv.org/pdf/2101.04898.pdf](https://arxiv.org/pdf/2402.11846.pdf))
+|2024.02.23|Tianyuan Yao    <br>  （Machine unlearning）  |[《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《UNLEARNABLE EXAMPLES: MAKING PERSONAL DATA UNEXPLOITABLE》(ICLR2021）](https://arxiv.org/pdf/2101.04898.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《CUDA: Convolution-based Unlearnable Datasets》(CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Sadasivan_CUDA_Convolution-Based_Unlearnable_Datasets_CVPR_2023_paper.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples》(CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf)
