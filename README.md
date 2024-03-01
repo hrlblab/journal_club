@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.03.01|Junlin Guo    <br>  （Visual Language model + Dataset denoising）  |[《Filtering, distillation, and hard negatives for vision-language pre-training》](https://arxiv.org/pdf/2301.02280.pdf)
+|2024.03.01|Junlin Guo    <br>  （Foundation model + Weakly supervised learning）  |[《Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation》](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)
+|2024.03.01|Junlin Guo    <br>  （Self-supervised Pre-training）  |[《Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training》](https://openaccess.thecvf.com/content/CVPR2023/html/He_Geometric_Visual_Similarity_Learning_in_3D_Medical_Image_Self-Supervised_Pre-Training_CVPR_2023_paper.html)
 |2024.02.23|Tianyuan Yao    <br>  （Vision 'language' Model）  |[《Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/pdf/2212.02499.pdf)
 |2024.02.23|Tianyuan Yao    <br>  （Machine unlearning）  |[《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《UNLEARNABLE EXAMPLES: MAKING PERSONAL DATA UNEXPLOITABLE》(ICLR2021）](https://arxiv.org/pdf/2101.04898.pdf)
