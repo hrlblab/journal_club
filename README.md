@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《Taming Transformers for High-Resolution Image Synthesis》(CVPR 2021)](https://arxiv.org/pdf/2012.09841.pdf)
+|2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785.pdf)
+|2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《VILA: On Pre-training for Visual Language Models》(CVPR 2024)](https://arxiv.org/pdf/2312.07533.pdf)
 |2024.03.01|Junlin Guo    <br>  （Visual Language model + Dataset denoising）  |[《Filtering, distillation, and hard negatives for vision-language pre-training》(CVPR 2023)](https://arxiv.org/pdf/2301.02280.pdf)
 |2024.03.01|Junlin Guo    <br>  （Foundation model + Weakly supervised learning）  |[《Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation》(CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)
 |2024.03.01|Junlin Guo    <br>  （Self-supervised Pre-training）  |[《Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training》(CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/He_Geometric_Visual_Similarity_Learning_in_3D_Medical_Image_Self-Supervised_Pre-Training_CVPR_2023_paper.html)
