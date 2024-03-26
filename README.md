@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.03.15|Juming Xiong    <br>  （Generative Model）  |[《Endora: Video Generation Models as Endoscopy Simulators》]([https://arxiv.org/pdf/2012.09841.pdf])
+|2024.03.15|Juming Xiong    <br>  （Generative Model）  |[《Endora: Video Generation Models as Endoscopy Simulators》](https://arxiv.org/pdf/2012.09841.pdf)
 |2024.03.15|Juming Xiong    <br>  （Image Segmentation）|[《OMG-Seg: Is One Model Good Enough For All Segmentation》(CVPR 2024)](https://arxiv.org/abs/2401.10229.pdf)
-|2024.03.15|Juming Xiong    <br>  （Image registration）|[《Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration》(CVPR 2024)]([https://arxiv.org/pdf/2312.07533.pdf](https://arxiv.org/pdf/2402.18933.pdf))
+|2024.03.15|Juming Xiong    <br>  （Image registration）|[《Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration》(CVPR 2024)]([https://arxiv.org/pdf/2312.07533.pdf)
 |2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《Taming Transformers for High-Resolution Image Synthesis》(CVPR 2021)](https://arxiv.org/pdf/2012.09841.pdf)
 |2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《Sequential Modeling Enables Scalable Learning for Large Vision Models》](https://arxiv.org/pdf/2312.00785.pdf)
 |2024.03.15|Yucheng Tang    <br>  （Autoregressive Models）  |[《VILA: On Pre-training for Visual Language Models》(CVPR 2024)](https://arxiv.org/pdf/2312.07533.pdf)
