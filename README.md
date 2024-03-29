@@ -10,8 +10,8 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts》](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2312.00968.pdf)
-|2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2312.00863.pdf)
+|2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts》](https://arxiv.org/pdf/2312.00968.pdf)
+|2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》](https://arxiv.org/pdf/2312.00863.pdf)
 |2024.03.22|Juming Xiong    <br>  （Generative Model）  |[《Endora: Video Generation Models as Endoscopy Simulators》](https://arxiv.org/pdf/2403.11050.pdf)
 |2024.03.22|Juming Xiong    <br>  （Image Segmentation）|[《OMG-Seg: Is One Model Good Enough For All Segmentation》(CVPR 2024)](https://arxiv.org/pdf/2401.10229.pdf)
 |2024.03.22|Juming Xiong    <br>  （Image registration）|[《Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration》(CVPR 2024)](https://arxiv.org/pdf/2402.18933.pdf)
