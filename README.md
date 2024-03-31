@@ -10,6 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《PromptKD: Unsupervised Prompt Distillation for Vision-Language Models》](https://arxiv.org/abs/2403.02781)
 |2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts》](https://arxiv.org/pdf/2312.00968.pdf)
 |2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》](https://arxiv.org/pdf/2312.00863.pdf)
 |2024.03.22|Juming Xiong    <br>  （Generative Model）  |[《Endora: Video Generation Models as Endoscopy Simulators》](https://arxiv.org/pdf/2403.11050.pdf)
