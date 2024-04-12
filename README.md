@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.4.5|Ruining Deng  <br> （Class-incremental Learning）  |[《PLOP: Learning without Forgetting for Continual Semantic Segmentation》 （CVPR2021）](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)
-|2024.4.5|Ruining Deng  <br> （Class-incremental Learning）  |[《Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)
-|2024.4.5|Ruining Deng  <br> （Class-incremental Learning）  |[《CoMFormer: Continual Learning in Semantic and Panoptic Segmentation》 （CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Cermelli_CoMFormer_Continual_Learning_in_Semantic_and_Panoptic_Segmentation_CVPR_2023_paper.pdf)
+|2024.04.05|Ruining Deng  <br> （Class-incremental Learning）  |[《PLOP: Learning without Forgetting for Continual Semantic Segmentation》 （CVPR2021）](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)
+|2024.04.05|Ruining Deng  <br> （Class-incremental Learning）  |[《Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)
+|2024.04.05|Ruining Deng  <br> （Class-incremental Learning）  |[《CoMFormer: Continual Learning in Semantic and Panoptic Segmentation》 （CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Cermelli_CoMFormer_Continual_Learning_in_Semantic_and_Panoptic_Segmentation_CVPR_2023_paper.pdf)
 |2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《PromptKD: Unsupervised Prompt Distillation for Vision-Language Models》](https://arxiv.org/abs/2403.02781)
 |2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts》](https://arxiv.org/pdf/2312.00968.pdf)
 |2024.03.29|Cathy Cui  <br>  （Efficient Model）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》](https://arxiv.org/pdf/2312.00863.pdf)
