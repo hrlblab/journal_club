@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《BLINK: Multimodal Large Language Models Can See but Not Perceive》 (ArXiv）](https://arxiv.org/pdf/2404.12390.pdf)
+|2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models》 （ArXiv）](https://arxiv.org/pdf/2404.03622.pdf)
+|2024.04.19|Marilyn Lionts  <br> （Adversarial LLMs）  |[《Manipulating Large Language Models to Increase Product Visibility》 （ArXiv)](https://arxiv.org/pdf/2404.07981.pdf)
 |2024.04.12|Quan Liu  <br> （Small Language Model）  |[《Textbooks Are All You Need》 (ArXiv）](https://arxiv.org/abs/2306.11644)
 |2024.04.12|Quan Liu  <br> （Small Language Model）  |[《Small Models are Valuable Plug-ins for Large Language Models》 （ArXiv）](https://arxiv.org/abs/2305.08848)
 |2024.04.12|Quan Liu  <br> （Small Language Model）  |[《MobileVLM V2: Faster and Stronger Baseline for Vision Language Model》 （ArXiv)](https://arxiv.org/pdf/2402.03766.pdf)
