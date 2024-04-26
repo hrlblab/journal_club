@@ -11,7 +11,7 @@ Agenda
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》 (ArXiv）](https://arxiv.org/pdf/2403.09629.pdf)
-|2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Dynamically allocating compute in transformer-based language models》 (ArXiv）](https://arxiv.org/pdf/2404.02258.pdf)
+|2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Mixture-of-Depths: Dynamically allocating compute in transformer-based language models》 (ArXiv）](https://arxiv.org/pdf/2404.02258.pdf)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention》 (ArXiv）](https://arxiv.org/pdf/2404.07143.pdf)
 |2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《BLINK: Multimodal Large Language Models Can See but Not Perceive》 (ArXiv）](https://arxiv.org/pdf/2404.12390.pdf)
 |2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models》 （ArXiv）](https://arxiv.org/pdf/2404.03622.pdf)
