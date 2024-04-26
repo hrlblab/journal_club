@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》 (ArXiv）](https://arxiv.org/pdf/2403.09629.pdf)
+|2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Dynamically allocating compute in transformer-based language models》 (ArXiv）](https://arxiv.org/pdf/2404.02258.pdf)
+|2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention》 (ArXiv）](https://arxiv.org/pdf/2404.07143.pdf)
 |2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《BLINK: Multimodal Large Language Models Can See but Not Perceive》 (ArXiv）](https://arxiv.org/pdf/2404.12390.pdf)
 |2024.04.19|Marilyn Lionts  <br> （Spatial Awareness LLMs）  |[《Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models》 （ArXiv）](https://arxiv.org/pdf/2404.03622.pdf)
 |2024.04.19|Marilyn Lionts  <br> （Adversarial LLMs）  |[《Manipulating Large Language Models to Increase Product Visibility》 （ArXiv)](https://arxiv.org/pdf/2404.07981.pdf)
@@ -31,8 +34,8 @@ Agenda
 |2024.03.01|Junlin Guo    <br>  （Visual Language model + Dataset denoising）  |[《Filtering, distillation, and hard negatives for vision-language pre-training》(CVPR 2023)](https://arxiv.org/pdf/2301.02280.pdf)
 |2024.03.01|Junlin Guo    <br>  （Foundation model + Weakly supervised learning）  |[《Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation》(CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)
 |2024.03.01|Junlin Guo    <br>  （Self-supervised Pre-training）  |[《Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training》(CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/He_Geometric_Visual_Similarity_Learning_in_3D_Medical_Image_Self-Supervised_Pre-Training_CVPR_2023_paper.html)
-|2024.02.23|Tianyuan Yao    <br>  （Vision 'language' Model）  |[《Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/pdf/2212.02499.pdf)
-|2024.02.23|Tianyuan Yao    <br>  （Machine unlearning）  |[《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)
+|2024.02.23|Tianyuan Yao    <br>  （Vision 'language' Model）  |[《Images Speak in Images: A Generalist Painter for In-Context Visual Learning》](https://arxiv.org/pdf/2212.02499.pdf)
+|2024.02.23|Tianyuan Yao    <br>  （Machine unlearning）  |[《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models》](https://arxiv.org/pdf/2402.11846.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《UNLEARNABLE EXAMPLES: MAKING PERSONAL DATA UNEXPLOITABLE》(ICLR2021）](https://arxiv.org/pdf/2101.04898.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《CUDA: Convolution-based Unlearnable Datasets》(CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Sadasivan_CUDA_Convolution-Based_Unlearnable_Datasets_CVPR_2023_paper.pdf)
 |2024.02.16|Marilyn Lionts     <br>  （Unlearnable Datasets）  |[《Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples》(CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf)
