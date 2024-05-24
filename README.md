@@ -13,6 +13,8 @@ Agenda
 |2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Improving Transformers Using Faithful Positional Encoding》 (ArXiv）](https://arxiv.org/pdf/2405.09061v1)
 |2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Zero-Shot Tokenizer Transfer》 (ArXiv）](https://arxiv.org/pdf/2405.07883#:~:text=While%20past%20work%20investigated%20n-shot%20tokenizer%20transfer%2C%20we,LMs%20from%20the%20tokenizer%20they%20were%20trained%20with.)
 |2024.05.24|Marilyn Lionts    <br>  （Language Models）  |[《Observational Scaling Laws and the Predictability of Language Model Performance》 (ArXiv）](https://arxiv.org/pdf/2405.10938)
+|2024.05.03|Junlin Guo    <br>  （RLHF + Large Language Model）  |[《Aligning Large Multimodal Models with Factually Augmented RLHF》 (ArXiv）](https://arxiv.org/abs/2309.14525)
+|2024.05.03|Junlin Guo    <br>  （RLHF + Diffusion Model）  |[《Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model》 (CVPR2024）](https://arxiv.org/abs/2311.13231)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》 (ArXiv）](https://arxiv.org/pdf/2403.09629.pdf)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Mixture-of-Depths: Dynamically allocating compute in transformer-based language models》 (ArXiv）](https://arxiv.org/pdf/2404.02258.pdf)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention》 (ArXiv）](https://arxiv.org/pdf/2404.07143.pdf)
