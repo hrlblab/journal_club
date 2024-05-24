@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Improving Transformers Using Faithful Positional Encoding》 (ArXiv）](https://arxiv.org/pdf/2405.09061v1)
+|2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Zero-Shot Tokenizer Transfer》 (ArXiv）](https://arxiv.org/pdf/2405.10938)
+|2024.05.24|Marilyn Lionts    <br>  （Language Models）  |[《Observational Scaling Laws and the Predictability of Language Model Performance》 (ArXiv）](https://arxiv.org/pdf/2405.10938)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》 (ArXiv）](https://arxiv.org/pdf/2403.09629.pdf)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Mixture-of-Depths: Dynamically allocating compute in transformer-based language models》 (ArXiv）](https://arxiv.org/pdf/2404.02258.pdf)
 |2024.04.26|Tianyuan Yao    <br>  （Large language Model）  |[《Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention》 (ArXiv）](https://arxiv.org/pdf/2404.07143.pdf)
