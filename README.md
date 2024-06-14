@@ -10,8 +10,8 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting》](https://arxiv.org/pdf/2212.02499.pdf)
-|2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Spatial-Temporal Transformer Networks for Traffic Flow Forecasting》](https://arxiv.org/pdf/1912.09363.pdf)
+|2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting》](https://arxiv.org/pdf/2001.02908.pdf)
+|2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Spatial-Temporal Transformer Networks for Traffic Flow Forecasting》](https://arxiv.org/pdf/2001.02908.pdf)
 |2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Foundation Models for Time Series Analysis: A Tutorial and Survey》](https://arxiv.org/pdf/2403.14735.pdf)
 |2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Improving Transformers Using Faithful Positional Encoding》 (ArXiv）](https://arxiv.org/pdf/2405.09061v1)
 |2024.05.24|Marilyn Lionts    <br>  （Transformers）  |[《Zero-Shot Tokenizer Transfer》 (ArXiv）](https://arxiv.org/pdf/2405.07883#:~:text=While%20past%20work%20investigated%20n-shot%20tokenizer%20transfer%2C%20we,LMs%20from%20the%20tokenizer%20they%20were%20trained%20with.)
