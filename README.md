@@ -10,7 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.06.21|Juming Xiong    <br>  （Image Stitching）  |[《Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images》](IEEE TRANSACTIONS ON IMAGE PROCESSING)(https://arxiv.org/pdf/2106.12859)
+|2024.06.21|Juming Xiong    <br>  （Image Stitching）  |[《Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images》(IEEE TRANSACTIONS ON IMAGE PROCESSING)](https://arxiv.org/pdf/2106.12859)
 |2024.06.21|Juming Xiong    <br>  （Image Stitching）|[《OMG-Seg: Is One Model Good Enough For All Segmentation》(CVPR 2024)](https://arxiv.org/pdf/2401.10229.pdf)
 |2024.06.21|Juming Xiong    <br>  （IImage Stitching）|[《Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration》(CVPR 2024)](https://arxiv.org/pdf/2402.18933.pdf)
 |2024.06.14|Tianyuan Yao    <br>  （Time series foundation model）  |[《Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting》](https://arxiv.org/pdf/1912.09363.pdf)
