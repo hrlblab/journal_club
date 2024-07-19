@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024. 7.5 | Ruining Deng  <br> （Multi-modal Learning）  |[《Transcriptomics-guided Slide Representation Learning in Computational Pathology》 （CVPR2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)
+|2024. 7.5 | Ruining Deng  <br> （Multi-rater Learning）  |[《Stochastic In-Context Learning for Medical Image Segmentation》 （CVPR2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Rakic_Tyche_Stochastic_In-Context_Learning_for_Medical_Image_Segmentation_CVPR_2024_paper.pdf)
+|2024.7.5 | Ruining Deng  <br> （Continual Learning）  |[《Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning》 （CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Continual_Self-supervised_Learning_Towards_Universal_Multi-modal_Medical_Data_Representation_Learning_CVPR_2024_paper.pdf)
 |2024.06.21|Juming Xiong    <br>  （Image Stitching）  |[《Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images》(IEEE TRANSACTIONS ON IMAGE PROCESSING)](https://arxiv.org/pdf/2106.12859)
 |2024.06.21|Juming Xiong    <br>  （Image Stitching）|[《Parallax-Tolerant Unsupervised Deep Image Stitching》](https://arxiv.org/pdf/2302.08207))
 |2024.06.21|Juming Xiong    <br>  （Image Stitching）|[《Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction》](https://arxiv.org/pdf/2309.01409)
