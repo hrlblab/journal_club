@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.07.26 | Junchao Zhu  <br> （pseudo label + semi-supervised learning）  |[《Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation》 （IJCAI 2023）](https://dl.acm.org/doi/10.24963/ijcai.2023/467)
+|2024.07.26 | Junchao Zhu  <br> （pseudo label + semi-supervised learning）  |[《Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation》 （CVPR2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Conflict-Based_Cross-View_Consistency_for_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)
+|2024.07.26 | Junchao Zhug  <br> （pseudo label + semi-supervised learning）  |[《Mutual learning with reliable pseudo label for semi-supervised medical image segmentation》 （MEDIA）](https://www.sciencedirect.com/science/article/pii/S1361841524000367)
 |2024.07.19 | Yuechen Yang  <br> （image analysis toolbox）  |[《TIAToolbox as an end-to-end library for advanced tissue image analytics》 （ communications medicine 2022）](https://www.nature.com/articles/s43856-022-00186-5)
 |2024.07.19 | Yuechen Yang  <br> （feature extraction + ML）  |[《Classification of Citrus Type Based on Leaf Image Using Shape Extraction and GLCM with the Decision Tree Method》 （IEEE 2021）](https://ieeexplore.ieee.org/abstract/document/9573252)
 |2024.07.19 | Yuechen Yang  <br> （feature extraction + ML）  |[《Sliding Window Based Support Vector Machine System for Classification of Breast Cancer Using Histopathological Microscopic Images》 （IETE 2019）](https://www.tandfonline.com/doi/abs/10.1080/03772063.2019.1583610)
