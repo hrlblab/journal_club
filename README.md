@@ -10,6 +10,11 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.08.23 | Marilyn Lionts  <br> （digital pathology virtual staining）  |[《Virtual histological staining of unlabeled autopsy tissue》 （Nature Communications 2024）](https://www.nature.com/articles/s41467-024-46077-2)
+|2024.08.23 | Marilyn Lionts  <br> （LLM）  |[《META-REWARDING LANGUAGE MODELS:
+Self-Improving Alignment with LLM-as-a-Meta-Judge》 （ArXiv 2024）](https://arxiv.org/pdf/2407.19594)
+|2024.08.23 | Marilyn Lionts  <br> （AI Safety）  |[《Safetywashing: Do AI Safety Benchmarks
+Actually Measure Safety Progress?》 （ArXiv 2024）] (https://arxiv.org/pdf/2407.21792)
 |2024.07.26 | Junchao Zhu  <br> （pseudo label + semi-supervised learning）  |[《Co-training with High-Confidence Pseudo Labels for Semi-supervised Medical Image Segmentation》 （IJCAI 2023）](https://dl.acm.org/doi/10.24963/ijcai.2023/467)
 |2024.07.26 | Junchao Zhu  <br> （pseudo label + semi-supervised learning）  |[《Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation》 （CVPR2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Conflict-Based_Cross-View_Consistency_for_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)
 |2024.07.26 | Junchao Zhug  <br> （pseudo label + semi-supervised learning）  |[《Mutual learning with reliable pseudo label for semi-supervised medical image segmentation》 （MEDIA）](https://www.sciencedirect.com/science/article/pii/S1361841524000367)
