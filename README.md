@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.04.26|Tianyuan Yao    <br>  （Vision language Model）  |[《BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models》 (ArXiv）](https://arxiv.org/pdf/2301.12597.pdf)
+|2024.04.26|Tianyuan Yao    <br>  （Vision language Model）  |[《BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation》 (ArXiv）](https://arxiv.org/pdf/2201.12086.pdf)
+|2024.04.26|Tianyuan Yao    <br>  （Vision language Model）  |[《Align before Fuse: Vision and Language Representation Learning with Momentum Distillation》 (ArXiv）](https://arxiv.org/pdf/2404.07143.pdf)
 |2024.08.23 | Marilyn Lionts  <br> （digital pathology virtual staining）  |[《Virtual histological staining of unlabeled autopsy tissue》 （Nature Communications 2024）](https://www.nature.com/articles/s41467-024-46077-2)
 |2024.08.23 | Marilyn Lionts  <br> （LLM）  |[《META-REWARDING LANGUAGE MODELS: Self-Improving Alignment with LLM-as-a-Meta-Judge》 （ArXiv 2024）](https://arxiv.org/pdf/2407.19594)
 |2024.08.23 | Marilyn Lionts  <br> （AI Safety）  |[《Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?》 （ArXiv 2024）](https://arxiv.org/pdf/2407.21792)
