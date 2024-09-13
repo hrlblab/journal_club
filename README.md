@@ -10,6 +10,10 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024. 9.6 | Ruining Deng  <br> （GAN-based application）  |[《CP2Image: Generating high-quality single-cell images using CellProfiler representations》 （MIDL2023）](https://proceedings.mlr.press/v227/ji24a.html)
+|2024. 9.6 | Ruining Deng  <br> （Image Registration）  |[《Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network》 （IEEE TMI）](https://ieeexplore.ieee.org/document/9745959)
+|2024. 9.6 | Ruining Deng  <br> （Vision-Language model）  |[《ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification
+》 （CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)
 |2024.08.30|Tianyuan Yao    <br>  （Vision language Model）  |[《BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models》 (ArXiv）](https://arxiv.org/pdf/2301.12597.pdf)
 |2024.08.30|Tianyuan Yao    <br>  （Vision language Model）  |[《BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation》 (ArXiv）](https://arxiv.org/pdf/2201.12086.pdf)
 |2024.08.30|Tianyuan Yao    <br>  （Vision language Model）  |[《Align before Fuse: Vision and Language Representation Learning with Momentum Distillation》 (ArXiv）](https://arxiv.org/pdf/2107.07651.pdf)
