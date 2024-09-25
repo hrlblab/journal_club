@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.09.20|Juming Xiong    <br>  （Image Registration）  |[《RegWSI: Whole slide image registration using combined deep feature-and intensity-based methods: Winner of the ACROBAT 2023 challenge》(Computer Methods and Programs in Biomedicine)](https://arxiv.org/pdf/2404.13108v2)
-|2024.09.20|Juming Xiong    <br>  （Image Registration）|[《Unsupervised Non-rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features with Iterative Training》(TMI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643202)
-|2024.09.20|Juming Xiong    <br>  （Image Segmentation）|[《Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation》(MICCAI)](https://arxiv.org/pdf/2406.16271)
+|2024.09.20|Juming Xiong    <br>  （Image Registration）  |[《RegWSI: Whole slide image registration using combined deep feature-and intensity-based methods: Winner of the ACROBAT 2023 challenge》   (Computer Methods and Programs in Biomedicine)](https://arxiv.org/pdf/2404.13108v2)
+|2024.09.20|Juming Xiong    <br>  （Image Registration）|[《Unsupervised Non-rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features with Iterative Training》  (TMI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643202)
+|2024.09.20|Juming Xiong    <br>  （Image Segmentation）|[《Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation》  (MICCAI)](https://arxiv.org/pdf/2406.16271)
 |2024. 9.6 | Ruining Deng  <br> （GAN-based application）  |[《CP2Image: Generating high-quality single-cell images using CellProfiler representations》 （MIDL2023）](https://proceedings.mlr.press/v227/ji24a.html)
 |2024. 9.6 | Ruining Deng  <br> （Image Registration）  |[《Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network》 （IEEE TMI)](https://ieeexplore.ieee.org/document/9745959)
 |2024. 9.6 | Ruining Deng  <br> （Vision-Language model）  |[《ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification》 （CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)
