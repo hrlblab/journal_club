@@ -10,6 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.09.27|Junlin Guo    <br>  （Vision-language model）  |[《Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning》   (Nature Communication)](https://arxiv.org/abs/2309.05904)
 |2024.09.27|Junlin Guo    <br>  （Vision-language model）  |[《Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding》   (Arxiv)](https://www.arxiv.org/abs/2405.19567)
 |2024.09.27|Junlin Guo    <br>  （Segmentation）  |[《Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding》   (CVPR2024)](https://arxiv.org/abs/2403.18271)
 |2024.09.20|Juming Xiong    <br>  （Image Registration）  |[《RegWSI: Whole slide image registration using combined deep feature-and intensity-based methods: Winner of the ACROBAT 2023 challenge》   (Computer Methods and Programs in Biomedicine)](https://arxiv.org/pdf/2404.13108v2)
