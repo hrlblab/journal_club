@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.10.4|Yuechen Yang Guo    <br>  （Generative model）  |[《Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning》   (CVPR2023)](https://arxiv.org/abs/2309.05904)
+|2024.10.4|Yuechen Yang    <br>  （Generative model）  |[《Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning》   (CVPR2023)](https://arxiv.org/abs/2309.05904)
+|2024.10.4|Yuechen Yang    <br>  （Generative model）  |[《Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning》   (Nature Communication)](https://arxiv.org/abs/2309.05904)
 |2024.09.27|Junlin Guo    <br>  （Vision-language model）  |[《Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning》   (Nature Communication)](https://arxiv.org/abs/2309.05904)
 |2024.09.27|Junlin Guo    <br>  （Vision-language model）  |[《Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding》   (Arxiv)](https://www.arxiv.org/abs/2405.19567)
 |2024.09.27|Junlin Guo    <br>  （Segmentation）  |[《Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding》   (CVPR2024)](https://arxiv.org/abs/2403.18271)
