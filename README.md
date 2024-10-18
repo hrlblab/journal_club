@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.10.18|Junchao Zhu    <br>  （GNN+Super-resolution）  |[《Image Processing GNN: Breaking Rigidity in Super-Resolution》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Image_Processing_GNN_Breaking_Rigidity_in_Super-Resolution_CVPR_2024_paper.pdf)
+|2024.10.18|Junchao Zhu    <br>  （GNN+Finetuning）  |[《Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns》   (AAAI2024)](https://arxiv.org/abs/2312.13583)
+|2024.10.18|Junchao Zhu    <br>  （Spatial Transcriptomics）  |[《Accurate spatial gene expression prediction by integrating multi-resolution features》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Chung_Accurate_Spatial_Gene_Expression_Prediction_by_Integrating_Multi-Resolution_Features_CVPR_2024_paper.pdf)
 |2024.10.4|Yuechen Yang Guo    <br>  （Generative model）  |[《Towards Accurate Image Coding:  Improved Autoregressive Image Generation with Dynamic Vector Quantization》   (CVPR2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf)
 |2024.10.4|Yuechen Yang    <br>  （Generative model）  |[《Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation》   (CVPR2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf)
 |2024.10.4|Yuechen Yang    <br>  （Generative model）  |[《Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction》  ](https://arxiv.org/abs/2404.02905)
