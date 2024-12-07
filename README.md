@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.10.18|Junchao Zhu    <br>  （Generative model）  |[《Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction》   (Neurips2024)](https://arxiv.org/pdf/2404.02905)
-|2024.10.18|Junchao Zhu    <br>  （LLM）  |[《RHO-1: Not All Tokens Are What You Need》   (Neurips2024)](https://arxiv.org/pdf/2404.07965)
-|2024.10.18|Junchao Zhu    <br>  （GNN）  |[《Dynamic Graph Representation with Knowledge-Aware Attention for Histopathology Whole Slide Image Analysis》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.pdf)
+|2024.12.6|Junchao Zhu    <br>  （Generative model）  |[《Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction》   (Neurips2024)](https://arxiv.org/pdf/2404.02905)
+|2024.12.6|Junchao Zhu    <br>  （LLM）  |[《RHO-1: Not All Tokens Are What You Need》   (Neurips2024)](https://arxiv.org/pdf/2404.07965)
+|2024.12.6|Junchao Zhu    <br>  （GNN）  |[《Dynamic Graph Representation with Knowledge-Aware Attention for Histopathology Whole Slide Image Analysis》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.pdf)
 |2024.10.18|Junchao Zhu    <br>  （GNN+Super-resolution）  |[《Image Processing GNN: Breaking Rigidity in Super-Resolution》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Image_Processing_GNN_Breaking_Rigidity_in_Super-Resolution_CVPR_2024_paper.pdf)
 |2024.10.18|Junchao Zhu    <br>  （GNN+Finetuning）  |[《Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns》   (AAAI2024)](https://arxiv.org/abs/2312.13583)
 |2024.10.18|Junchao Zhu    <br>  （Spatial Transcriptomics）  |[《Accurate spatial gene expression prediction by integrating multi-resolution features》   (CVPR2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Chung_Accurate_Spatial_Gene_Expression_Prediction_by_Integrating_Multi-Resolution_Features_CVPR_2024_paper.pdf)
