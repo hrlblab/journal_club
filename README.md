@@ -10,8 +10,8 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Solaris: A Foundation Model of the Sun》   (Arxiv)](https://arxiv.org/pdf/2411.16339)
-|2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Star Attention: Efficient LLM Inference over Long Sequences》   (Arxiv)](https://arxiv.org/pdf/2411.17116)
+|2024.12.13|Marilyn Lionts    <br>  （Foundation Model）  |[《Solaris: A Foundation Model of the Sun》](https://arxiv.org/pdf/2411.16339)
+|2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Star Attention: Efficient LLM Inference over Long Sequences》](https://arxiv.org/pdf/2411.17116)
 |2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Ring Attention with Blockwise Transformers for Near-Infinite Context》   (Neurips2024)](https://arxiv.org/pdf/2310.01889)
 |2024.12.6|Junchao Zhu    <br>  （Generative model）  |[《Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction》   (Neurips2024)](https://arxiv.org/pdf/2404.02905)
 |2024.12.6|Junchao Zhu    <br>  （LLM）  |[《RHO-1: Not All Tokens Are What You Need》   (Neurips2024)](https://arxiv.org/pdf/2404.07965)
