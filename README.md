@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V3 Technical Report》 (ArXiv）](https://arxiv.org/pdf/2412.19437)
+|2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model》 (ArXiv）](https://arxiv.org/pdf/2405.04434)
+|2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek LLM: Scaling Open-Source Language Models with Longtermism》 (ArXiv）](https://arxiv.org/pdf/2401.02954)
 |2024.12.13|Marilyn Lionts    <br>  （Foundation Model）  |[《Solaris: A Foundation Model of the Sun》](https://arxiv.org/pdf/2411.16339)
 |2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Star Attention: Efficient LLM Inference over Long Sequences》](https://arxiv.org/pdf/2411.17116)
 |2024.12.13|Marilyn Lionts    <br>  （LLM）  |[《Ring Attention with Blockwise Transformers for Near-Infinite Context》   (Neurips2024)](https://arxiv.org/pdf/2310.01889)
