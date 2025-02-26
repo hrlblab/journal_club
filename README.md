@@ -12,10 +12,10 @@ Agenda
 |---|:---:|---|---|
 
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshFormer: High-Quality Mesh Generation with
-3D-Guided Reconstruction Model》 (ArXiv）](https://arxiv.org/abs/2408.10198)
+3D-Guided Reconstruction Model》 (ArXiv）](https://arxiv.org/abs/2408.10198)  
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything: Artist-Created Mesh Generation
-with Autoregressive Transformers》 (ArXiv）](https://arxiv.org/abs/2406.10163)
-|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization》 (ArXiv）](https://arxiv.org/abs/2408.02555)
+with Autoregressive Transformers》 (ArXiv）](https://arxiv.org/abs/2406.10163)   
+|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization》 (ArXiv）](https://arxiv.org/abs/2408.02555)   
 |2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V3 Technical Report》 (ArXiv）](https://arxiv.org/pdf/2412.19437)
 |2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model》 (ArXiv）](https://arxiv.org/pdf/2405.04434)
 |2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek LLM: Scaling Open-Source Language Models with Longtermism》 (ArXiv）](https://arxiv.org/pdf/2401.02954)
