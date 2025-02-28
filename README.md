@@ -16,8 +16,8 @@ Agenda
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything: Artist-Created Mesh Generation
 with Autoregressive Transformers》 (ArXiv）](https://arxiv.org/abs/2406.10163)   
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization》 (ArXiv）](https://arxiv.org/abs/2408.02555)   
-
-
+|2025.01.17|Juming Xiong  <br>  （PPT Agent）  |[《PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides》 (ArXiv）](https://arxiv.org/abs/2501.03936)
+|2025.01.17|Juming Xiong  <br>  （PPT Agent）  |[《AUTOPRESENT: Designing Structured Visuals from Scratch》 (ArXiv）](https://www.arxiv.org/abs/2501.00912)
 |2025.01.17|Juming Xiong  <br>  （PPT Agent）  |[《Enhancing Presentation Slide Generation by LLMs with a Multi-Staged End-to-End Approach》 (ArXiv）](https://arxiv.org/abs/2406.06556)
 |2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V3 Technical Report》 (ArXiv）](https://arxiv.org/pdf/2412.19437)
 |2025.01.10|Tianyuan Yao    <br>  （Large Language Model）  |[《DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model》 (ArXiv）](https://arxiv.org/pdf/2405.04434)
