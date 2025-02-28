@@ -11,6 +11,12 @@ Agenda
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 
+|2025.02.28|Yanfan Zhu    <br>  （LLM Sparsity）  |[《Turbo Sparse: Achieving LLM SOTA Performance
+with Minimal Activated Parameters》 (ArXiv）](https://arxiv.org/abs/2406.05955)  
+|2025.02.28|Yanfan Zhu    <br>  （Framework Acceleration）  |[《A Multi-Level Framework for 
+Accelerating Training Transformer Models》 (ArXiv）](https://arxiv.org/abs/2404.07999)   
+|2025.02.28|Yanfan Zhu    <br>  （Hardware Acceleration）  |[《Flash Attention-3: Fast and Accurate Attention
+with Asynchrony and Low-precision》 (ArXiv）](https://arxiv.org/abs/2407.08608) 
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshFormer: High-Quality Mesh Generation with
 3D-Guided Reconstruction Model》 (ArXiv）](https://arxiv.org/abs/2408.10198)  
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything: Artist-Created Mesh Generation
