@@ -11,6 +11,11 @@ Agenda
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 
+|2025.03.07|Zhengyi Lu    <br>  （Cinemagraph）  |[《StyleCineGAN: Landscape Cinemagraph Generation
+using a Pre-trained StyleGAN》 (ArXiv）](https://arxiv.org/abs/2403.14186)  
+|2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation》 (ArXiv）](https://arxiv.org/abs/2405.04356)  
+|2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《When StyleGAN Meets Stable Diffusion:
+a W+ Adapter for Personalized Image Generation》 (ArXiv）](https://arxiv.org/abs/2311.17461)  
 |2025.02.28|Yanfan Zhu    <br>  （LLM Sparsity）  |[《Turbo Sparse: Achieving LLM SOTA Performance
 with Minimal Activated Parameters》 (ArXiv）](https://arxiv.org/abs/2406.05955)  
 |2025.02.28|Yanfan Zhu    <br>  （Framework Acceleration）  |[《A Multi-Level Framework for 
