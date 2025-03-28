@@ -13,21 +13,14 @@ Agenda
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《RoFormer: Enhanced Transformer with Rotary Position Embedding》 (ArXiv）](https://arxiv.org/abs/2104.09864) 
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer》 (ArXiv）](https://arxiv.org/abs/1910.10683)  
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Length Generalization of Causal Transformers without Position Encoding》 (ArXiv）](https://arxiv.org/abs/2404.12224)  
-|2025.03.07|Zhengyi Lu    <br>  （Cinemagraph）  |[《StyleCineGAN: Landscape Cinemagraph Generation
-using a Pre-trained StyleGAN》 (ArXiv）](https://arxiv.org/abs/2403.14186)  
+|2025.03.07|Zhengyi Lu    <br>  （Cinemagraph）  |[《StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN》 (ArXiv）](https://arxiv.org/abs/2403.14186)  
 |2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation》 (ArXiv）](https://arxiv.org/abs/2405.04356)  
-|2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《When StyleGAN Meets Stable Diffusion:
-a W+ Adapter for Personalized Image Generation》 (ArXiv）](https://arxiv.org/abs/2311.17461)  
-|2025.02.28|Yanfan Zhu    <br>  （LLM Sparsity）  |[《Turbo Sparse: Achieving LLM SOTA Performance
-with Minimal Activated Parameters》 (ArXiv）](https://arxiv.org/abs/2406.05955)  
-|2025.02.28|Yanfan Zhu    <br>  （Framework Acceleration）  |[《A Multi-Level Framework for 
-Accelerating Training Transformer Models》 (ArXiv）](https://arxiv.org/abs/2404.07999)   
-|2025.02.28|Yanfan Zhu    <br>  （Hardware Acceleration）  |[《Flash Attention-3: Fast and Accurate Attention
-with Asynchrony and Low-precision》 (ArXiv）](https://arxiv.org/abs/2407.08608)  
-|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshFormer: High-Quality Mesh Generation with
-3D-Guided Reconstruction Model》 (ArXiv）](https://arxiv.org/abs/2408.10198)  
-|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything: Artist-Created Mesh Generation
-with Autoregressive Transformers》 (ArXiv）](https://arxiv.org/abs/2406.10163)   
+|2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation》 (ArXiv）](https://arxiv.org/abs/2311.17461)  
+|2025.02.28|Yanfan Zhu    <br>  （LLM Sparsity）  |[《Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters》 (ArXiv）](https://arxiv.org/abs/2406.05955)  
+|2025.02.28|Yanfan Zhu    <br>  （Framework Acceleration）  |[《A Multi-Level Framework for Accelerating Training Transformer Models》 (ArXiv）](https://arxiv.org/abs/2404.07999)   
+|2025.02.28|Yanfan Zhu    <br>  （Hardware Acceleration）  |[《Flash Attention-3: Fast and Accurate Attention with Asynchrony and Low-precision》 (ArXiv）](https://arxiv.org/abs/2407.08608)  
+|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model》 (ArXiv）](https://arxiv.org/abs/2408.10198)  
+|2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers》 (ArXiv）](https://arxiv.org/abs/2406.10163)   
 |2025.02.21|Yuechen Yang    <br>  （Mesh Gereration）  |[《MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization》 (ArXiv）](https://arxiv.org/abs/2408.02555)   
 |2025.01.17|Juming Xiong  <br>  （PPT Agent）  |[《PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides》 (ArXiv）](https://arxiv.org/abs/2501.03936)
 |2025.01.17|Juming Xiong  <br>  （PPT Agent）  |[《AUTOPRESENT: Designing Structured Visuals from Scratch》 (ArXiv）](https://www.arxiv.org/abs/2501.00912)
