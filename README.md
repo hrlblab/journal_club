@@ -10,7 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-
+|2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《RoFormer: Enhanced Transformer with Rotary Position Embedding》 (ArXiv）](https://arxiv.org/abs/2104.09864) 
+|2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer》 (ArXiv）](https://arxiv.org/abs/1910.10683)  
+|2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Length Generalization of Causal Transformers without Position Encoding》 (ArXiv）](https://arxiv.org/abs/2404.12224)  
 |2025.03.07|Zhengyi Lu    <br>  （Cinemagraph）  |[《StyleCineGAN: Landscape Cinemagraph Generation
 using a Pre-trained StyleGAN》 (ArXiv）](https://arxiv.org/abs/2403.14186)  
 |2025.03.07|Zhengyi Lu    <br>  （GAN&Diffusion）  |[《Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation》 (ArXiv）](https://arxiv.org/abs/2405.04356)  
