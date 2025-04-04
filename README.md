@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.04|Marilyn Lionts	<br>	(Diffusion)	|[《Unified Multimodal Discrete Diffusion》 (ArXiv March 2025）](https://arxiv.org/pdf/2503.20853#cite.li2022diffusionlmimprovescontrollabletext)
+|2025.04.04|Marilyn Lionts	<br>	(AI Ethics)	|[《Users Favor LLM-Generated Content—Until They Know It’s AI》 (ArXiv February 2025）](https://arxiv.org/pdf/2503.16458)
+|2025.04.04|Marilyn Lionts	<br>	(AI Ethics)	|[《Position: Model Collapse Does Not Mean What You Think》 (ArXiv March 2025）](https://arxiv.org/pdf/2503.03150)
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《RoFormer: Enhanced Transformer with Rotary Position Embedding》 (ArXiv）](https://arxiv.org/abs/2104.09864) 
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer》 (ArXiv）](https://arxiv.org/abs/1910.10683)  
 |2025.03.28|Tianyuan yao    <br>  （Transformer, PE）  |[《Length Generalization of Causal Transformers without Position Encoding》 (ArXiv）](https://arxiv.org/abs/2404.12224)  
