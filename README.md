@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.11|Junchao Zhu	<br>	(Diffusion)	|[《DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation》 (CVPR 2025）](https://arxiv.org/pdf/2412.07589)
+|2025.04.11|Junchao Zhu	<br>	(Generation Model)	|[《Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step》 (ArXiv Jan 2025）](https://arxiv.org/pdf/2501.13926)
+|2025.04.11|Junchao Zhu	<br>	(Diffusion)	|[《Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models》 (CVPR 2025）](https://arxiv.org/pdf/2501.01423)
 |2025.04.04|Marilyn Lionts	<br>	(Diffusion)	|[《Unified Multimodal Discrete Diffusion》 (ArXiv March 2025）](https://arxiv.org/pdf/2503.20853#cite.li2022diffusionlmimprovescontrollabletext)
 |2025.04.04|Marilyn Lionts	<br>	(AI Ethics)	|[《Users Favor LLM-Generated Content—Until They Know It’s AI》 (ArXiv February 2025）](https://arxiv.org/pdf/2503.16458)
 |2025.04.04|Marilyn Lionts	<br>	(AI Ethics)	|[《Position: Model Collapse Does Not Mean What You Think》 (ArXiv March 2025）](https://arxiv.org/pdf/2503.03150)
