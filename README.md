@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《TopOC: Topological Deep Learning for Ovarian and Breast Cancer Diagnosis》 (ArXiv）](https://arxiv.org/abs/2410.09818)  
+|2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《PI-Att: Topology Attention for Segmentation Networks through Adaptive Persistence Image Representation》 (ArXiv）](https://arxiv.org/abs/2408.08038)   
+|2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《Topologically Faithful Multi-class Segmentation in Medical Images》 (ArXiv）](https://arxiv.org/abs/2403.11001)  
 |2025.04.11|Junchao Zhu	<br>	(Diffusion)	|[《DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation》 (CVPR 2025）](https://arxiv.org/pdf/2412.07589)
 |2025.04.11|Junchao Zhu	<br>	(Generation Model)	|[《Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step》 (ArXiv Jan 2025）](https://arxiv.org/pdf/2501.13926)
 |2025.04.11|Junchao Zhu	<br>	(Diffusion)	|[《Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models》 (CVPR 2025）](https://arxiv.org/pdf/2501.01423)
