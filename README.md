@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models》 (ArXiv）](https://arxiv.org/abs/2211.10438)
+|2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models》 (ArXiv）](https://arxiv.org/abs/2411.05007)
+|2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs》 (ArXiv）](https://arxiv.org/abs/2404.00456)  
 |2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《TopOC: Topological Deep Learning for Ovarian and Breast Cancer Diagnosis》 (ArXiv）](https://arxiv.org/abs/2410.09818)  
 |2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《PI-Att: Topology Attention for Segmentation Networks through Adaptive Persistence Image Representation》 (ArXiv）](https://arxiv.org/abs/2408.08038)   
 |2025.04.18|Yanfan Zhu    <br>  （TDA）  |[《Topologically Faithful Multi-class Segmentation in Medical Images》 (ArXiv）](https://arxiv.org/abs/2403.11001)  
