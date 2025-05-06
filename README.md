@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Comparison and Optimization of Cellular Neighbor Preference Methods for Quantitative Tissue Analysis》](https://www.biorxiv.org/content/10.1101/2025.03.31.646289v2)
+|2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Clinical Relevance of Computational Pathology Analysis of Interplay Between Kidney Microvasculature and Interstitial Microenvironment》 (ArXiv）](https://pubmed.ncbi.nlm.nih.gov/39714939)
+|2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Large-scale extraction of interpretable features provides new insights into kidney histopathology – A proof-of-concept study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9576990/)
 |2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models》 (ArXiv）](https://arxiv.org/abs/2211.10438)
 |2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models》 (ArXiv）](https://arxiv.org/abs/2411.05007)
 |2025.04.25|Chongyu Qu    <br>  （Quantization Method）  |[《QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs》 (ArXiv）](https://arxiv.org/abs/2404.00456)  
