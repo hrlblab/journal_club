@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.05.16|Zhengyi Lu    <br>  （3D Diffusion& Mesh）  |[《MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation》 (ArXiv）](https://arxiv.org/pdf/2412.03558)  
+|2025.05.16|Zhengyi Lu    <br>  （3D Diffusion& Mesh）  |[《One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion》 (ArXiv）](https://arxiv.org/pdf/2311.07885)  
+|2025.05.16|Zhengyi Lu    <br>  （3D Diffusion& Mesh）  |[《One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization》 (ArXiv）](https://arxiv.org/pdf/2306.16928)
 |2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Comparison and Optimization of Cellular Neighbor Preference Methods for Quantitative Tissue Analysis》](https://www.biorxiv.org/content/10.1101/2025.03.31.646289v2)
 |2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Clinical Relevance of Computational Pathology Analysis of Interplay Between Kidney Microvasculature and Interstitial Microenvironment》 (ArXiv）](https://pubmed.ncbi.nlm.nih.gov/39714939)
 |2025.04.25|Yuechen Yang    <br>  （Pathomics）  |[《Large-scale extraction of interpretable features provides new insights into kidney histopathology – A proof-of-concept study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9576990/)
