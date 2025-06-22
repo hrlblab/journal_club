@@ -10,7 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.06.20|Junlin Guo    <br>  （Model Explanation & Visualization）  |[《Interpreting Object-level Foundation Models via Visual Precision Search》 (CVPR2025）](https://arxiv.org/pdf/2411.16198))  
+|2025.06.20|Junlin Guo    <br>  （Model Explanation & Visualization）  |[《Interpreting Object-level Foundation Models via Visual Precision Search》 (CVPR2025）](https://arxiv.org/pdf/2411.16198)  
 |2025.06.20|Junlin Guo    <br>  （3D Visual Grounding & Transformer）  |[《VGGT: Visual Geometry Grounded Transformer》 (CVPR2025）](https://vgg-t.github.io/)  
 |2025.06.20|Junlin Guo    <br>  （Pathology & Foundation Model）  |[《A whole-slide foundation model for digital pathology from real-world data》 (Nature）](https://www.nature.com/articles/s41586-024-07441-w#Fig1)  
 |2025.05.16|Zhengyi Lu    <br>  （3D Diffusion& Mesh）  |[《MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation》 (ArXiv）](https://arxiv.org/pdf/2412.03558)  
