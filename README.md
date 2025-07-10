@@ -11,8 +11,8 @@ Agenda
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2025.06.27|Yanfan Zhu    <br>  （ReID）  |[《From Poses to Identity: Training‑Free Person Re‑Identification via Feature Centralization》 (CVPR2025）](https://arxiv.org/abs/2503.00938)  
-|2025.06.27|Yanfan Zhu    <br>  （3D Human Pose Estimation）  |[《Reconstructing Humans with a Biomechanically Accurate Skeleton》 (CVPR2025）](https://arxiv.org/abs/2503.21751v1)   
-|2025.06.27|Yanfan Zhu    <br>  （TDA）  |[《Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass》 (CVPR2025）](https://arxiv.org/abs/2501.13928) 
+|2025.06.27|Yanfan Zhu    <br>  （Reconstruction）  |[《Reconstructing Humans with a Biomechanically Accurate Skeleton》 (CVPR2025）](https://arxiv.org/abs/2503.21751v1)   
+|2025.06.27|Yanfan Zhu    <br>  （Reconstruction）  |[《Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass》 (CVPR2025）](https://arxiv.org/abs/2501.13928) 
 |2025.06.20|Junlin Guo    <br>  （Model Explanation & Visualization）  |[《Interpreting Object-level Foundation Models via Visual Precision Search》 (CVPR2025）](https://arxiv.org/pdf/2411.16198)  
 |2025.06.20|Junlin Guo    <br>  （3D Visual Grounding & Transformer）  |[《VGGT: Visual Geometry Grounded Transformer》 (CVPR2025）](https://vgg-t.github.io/)  
 |2025.06.20|Junlin Guo    <br>  （Pathology & Foundation Model）  |[《A whole-slide foundation model for digital pathology from real-world data》 (Nature 2024）](https://www.nature.com/articles/s41586-024-07441-w#Fig1)  
