@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.07.18|Marilyn Lionts    <br>  （VLM）  |[《Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models》 (CVPR2025）](https://arxiv.org/pdf/2409.17146)  
+|2025.07.18|Marilyn Lionts    <br>  （Computer Vision Video）  |[《Navigation World Models》 (CVPR2025）](https://arxiv.org/pdf/2412.03572)  
+|2025.07.18|Marilyn Lionts    <br>  （MLLM）  |[《Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens》 (CVPR2025）](https://arxiv.org/pdf/2504.14666)  
 |2025.06.27|Yanfan Zhu    <br>  （ReID）  |[《From Poses to Identity: Training‑Free Person Re‑Identification via Feature Centralization》 (CVPR2025）](https://arxiv.org/abs/2503.00938)  
 |2025.06.27|Yanfan Zhu    <br>  （Reconstruction）  |[《Reconstructing Humans with a Biomechanically Accurate Skeleton》 (CVPR2025）](https://arxiv.org/abs/2503.21751v1)   
 |2025.06.27|Yanfan Zhu    <br>  （Reconstruction）  |[《Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass》 (CVPR2025）](https://arxiv.org/abs/2501.13928) 
