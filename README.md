@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+| 2025.07.25 |Xindong Zheng    <br>  (Semi-Supervised Segmentation)|[《Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Kumari_Annotation_Ambiguity_Aware_Semi-Supervised_Medical_Image_Segmentation_CVPR_2025_paper.pdf)  
+| 2025.07.25 |Xindong Zheng    <br>  (Diffusion)|[《Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Shin_Anatomical_Consistency_and_Adaptive_Prior-informed_Transformation_for_Multi-contrast_MR_Image_CVPR_2025_paper.pdf)  
+| 2025.07.25 | Xindong Zheng    <br>  (Anomaly Detection)|[《PIAD: Pose and Illumination agnostic Anomaly Detection》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf)
 |2025.07.18|Marilyn Lionts    <br>  （VLM）  |[《Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models》 (CVPR2025）](https://arxiv.org/pdf/2409.17146)  
 |2025.07.18|Marilyn Lionts    <br>  （Computer Vision Video）  |[《Navigation World Models》 (CVPR2025）](https://arxiv.org/pdf/2412.03572)  
 |2025.07.18|Marilyn Lionts    <br>  （MLLM）  |[《Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens》 (CVPR2025）](https://arxiv.org/pdf/2504.14666)  
