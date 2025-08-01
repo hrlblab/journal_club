@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.08.01|Tianyuan yao    <br>  （LLM）  |[《SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator》 (ArXiv）](https://arxiv.org/pdf/2412.12094) 
-|2025.08.01|Tianyuan yao    <br>  （diffusion, CNN）  |[《DiC: Rethinking Conv3x3 Designs in Diffusion Models》 (ArXiv）](https://arxiv.org/pdf/2501.00603)  
-|2025.08.01|Tianyuan yao    <br>  （LLM）  |[《Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation of Causal Transformers without Position》 (ArXiv）](https://arxiv.org/pdf/2507.10524)  
+|2025.08.01|Tianyuan yao    <br>  （LLM）  |[《SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator》 (ICML2025）](https://arxiv.org/pdf/2412.12094) 
+|2025.08.01|Tianyuan yao    <br>  （diffusion, CNN）  |[《DiC: Rethinking Conv3x3 Designs in Diffusion Models》 (CVPR2025）](https://arxiv.org/pdf/2501.00603)  
+|2025.08.01|Tianyuan yao    <br>  （LLM）  |[《Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation of Causal Transformers without Position》 (Google DeepMind）](https://arxiv.org/pdf/2507.10524)  
 |2025.07.25 |Xindong Zheng    <br>  (Semi-Supervised Segmentation)|[《Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Kumari_Annotation_Ambiguity_Aware_Semi-Supervised_Medical_Image_Segmentation_CVPR_2025_paper.pdf)  
 |2025.07.25 |Xindong Zheng    <br>  (Diffusion)|[《Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Shin_Anatomical_Consistency_and_Adaptive_Prior-informed_Transformation_for_Multi-contrast_MR_Image_CVPR_2025_paper.pdf)  
 |2025.07.25 | Xindong Zheng    <br>  (Anomaly Detection)|[《PIAD: Pose and Illumination agnostic Anomaly Detection》 (CVPR2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf)
