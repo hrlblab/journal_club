@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation》 (ArXiv）](https://arxiv.org/abs/2403.10701)  
+|2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment》 (ArXiv）](https://arxiv.org/abs/2412.00306)  
+|2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《Type-R: Automatically Retouching Typos for Text-to-Image Generation》 (ArXiv）](https://arxiv.org/abs/2411.18159)
 |2025.08.01|Tianyuan yao    <br>  （LLM）  |[《SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator》 (ICML2025）](https://arxiv.org/pdf/2412.12094) 
 |2025.08.01|Tianyuan yao    <br>  （diffusion, CNN）  |[《DiC: Rethinking Conv3x3 Designs in Diffusion Models》 (CVPR2025）](https://arxiv.org/pdf/2501.00603)  
 |2025.08.01|Tianyuan yao    <br>  （LLM）  |[《Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation of Causal Transformers without Position》 (Google DeepMind）](https://arxiv.org/pdf/2507.10524)  
