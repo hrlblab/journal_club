@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《DINOv3》 (ArXiv）](https://arxiv.org/abs/2508.10104)  
+|2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《Galileo: Learning Global & Local Features of Many Remote Sensing Modalities》 (ICLR2025）](https://arxiv.org/abs/2502.09356)  
+|2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities》 (CVPP2025）](https://arxiv.org/abs/2412.14123)  
 |2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation》 (ArXiv）](https://arxiv.org/abs/2403.10701)  
 |2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《Refine-by-Align: Reference-Guided Artifacts Refinement through Semantic Alignment》 (ArXiv）](https://arxiv.org/abs/2412.00306)  
 |2025.08.08|Zhengyi Lu    <br>  （Image Refinement）  |[《Type-R: Automatically Retouching Typos for Text-to-Image Generation》 (ArXiv）](https://arxiv.org/abs/2411.18159)
