@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.09.12|Junchao Zhu  <br>  （Vision Language Model）  |[《Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models》 (ICLR2025）](https://arxiv.org/abs/2404.07983)  
+|2025.09.12|Junchao Zhu  <br>  （Vision Language Model）  |[《Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation》 (ICLR2025）](https://proceedings.iclr.cc/paper_files/paper/2025/hash/8c96b559340daa7bb29f56ccfbbc9c2f-Abstract-Conference.html) 
+|2025.09.12|Junchao Zhu  <br>  （Vision Language Model）  |[《MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models》 (ICLR2025）](https://arxiv.org/abs/2410.13085) 
 |2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《DINOv3》 (ArXiv）](https://arxiv.org/abs/2508.10104)  
 |2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《Galileo: Learning Global & Local Features of Many Remote Sensing Modalities》 (ICLR2025）](https://arxiv.org/abs/2502.09356)  
 |2025.08.15|Junlin Guo    <br>  （Vision Foundation Model）  |[《AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities》 (CVPP2025）](https://arxiv.org/abs/2412.14123)  
