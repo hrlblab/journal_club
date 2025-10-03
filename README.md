@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.10.03|Tianyuan yao    <br>  （Vision Transformer）  |[《TransNeXt: Robust Foveal Visual Perception for Vision Transformers》 (CVPR 2024）](https://arxiv.org/abs/2311.17132)
+|2025.10.03|Tianyuan yao    <br>  （Transformer）  |[《Agent Attention: On the Integration of Softmax and Linear Attention》 (ECCV 2024）](https://arxiv.org/abs/2312.08874) 
+|2025.10.03|Tianyuan yao    <br>  （Transformer）  |[《Permutation Equivariance of Transformers and Its Applications》 (CVPR 2024）](https://arxiv.org/abs/2304.07735)  
 |2025.09.19|Yanfan Zhu  <br>  （3D Object Reconstruction）  |[《Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model》 (ICLR2025）](https://arxiv.org/abs/2410.13882)  
 |2025.09.19|Yanfan  <br>  （Generative Vision）  |[《4K4DGen: Panoramic 4D Generation at 4K Resolution》 (ICLR2025）](https://arxiv.org/abs/2406.13527) 
 |2025.09.19|Yanfan Zhu  <br>  （Monocular Depth Estimation）  |[《Depth Pro: Sharp Monocular Metric Depth in Less Than a Second》 (ICLR2025）](https://arxiv.org/abs/2410.02073)
