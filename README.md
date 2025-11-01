@@ -10,6 +10,8 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.10.30|Junlin Guo    <br>  （VLM & Reinforcement Learning）  |[《Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models (IEEE TMI 2025)](https://arxiv.org/abs/2503.13939) 
+|2025.10.30|Junlin Guo    <br>  （LLM Agent & Reinforcement Learning）  |[《Agent Learning via Early Experience》 (Arxiv）](https://arxiv.org/abs/2510.08558) 
 |2025.10.30|Junlin Guo    <br>  （3D point cloud & 2D-3D Foundation Models）  |[《Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations》 (Neurips2025）](https://arxiv.org/abs/2510.23607) 
 |2025.10.24|Zhengyi Lu    <br>  （GUI Agent）  |[《Less is More: Empowering GUI Agent with Context-Aware Simplification》 (ArXiv）](https://arxiv.org/pdf/2507.03730) 
 |2025.10.24|Zhengyi Lu    <br>  （MRI Geneartion）  |[《MRGen: Segmentation Data Engine for Underrepresented MRI Modalities》 (ArXiv）](https://arxiv.org/pdf/2412.04106)  
