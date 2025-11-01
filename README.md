@@ -10,6 +10,7 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.10.30|Junlin Guo    <br>  （3D point cloud & 2D-3D Foundation Models）  |[《Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations》 (Neurips2025）](https://arxiv.org/abs/2510.23607) 
 |2025.10.24|Zhengyi Lu    <br>  （GUI Agent）  |[《Less is More: Empowering GUI Agent with Context-Aware Simplification》 (ArXiv）](https://arxiv.org/pdf/2507.03730) 
 |2025.10.24|Zhengyi Lu    <br>  （MRI Geneartion）  |[《MRGen: Segmentation Data Engine for Underrepresented MRI Modalities》 (ArXiv）](https://arxiv.org/pdf/2412.04106)  
 |2025.10.24|Zhengyi Lu    <br>  （MRI Segmentation）  |[《Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior》 (ArXiv）](https://arxiv.org/pdf/2403.18878)
