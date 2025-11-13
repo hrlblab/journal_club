@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.11.09|Yanfan Zhu  <br>  （3D Reconstruction）  |[《Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging》 (MICCAI 2025）](https://papers.miccai.org/miccai-2025/0845-Paper5171.html) 
+|2025.11.09|Yanfan Zhu <br>  （3D Reconstruction）  |[《Robust 3D Shape Reconstruction in Zero-Shot from a Single Image in the Wild》 (CVPR2025）](https://arxiv.org/abs/2403.14539) 
+|2025.11.09|Yanfan Zhu  <br>  （3D Reconstruction）  |[《Wonder3D++: Cross-domain Diffusion for High-fidelity 3D Generation from a Single Image》 (Arxiv）](https://arxiv.org/abs/2511.01767)
 |2025.10.30|Junlin Guo    <br>  （VLM & Reinforcement Learning）  |[《Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models (IEEE TMI 2025)](https://arxiv.org/abs/2503.13939) 
 |2025.10.30|Junlin Guo    <br>  （LLM Agent & Reinforcement Learning）  |[《Agent Learning via Early Experience》 (Arxiv）](https://arxiv.org/abs/2510.08558) 
 |2025.10.30|Junlin Guo    <br>  （3D point cloud & 2D-3D Foundation Models）  |[《Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations》 (Neurips2025）](https://arxiv.org/abs/2510.23607) 
@@ -23,7 +26,7 @@ Agenda
 |2025.10.03|Tianyuan yao    <br>  （Transformer）  |[《Agent Attention: On the Integration of Softmax and Linear Attention》 (ECCV 2024）](https://arxiv.org/abs/2312.08874) 
 |2025.10.03|Tianyuan yao    <br>  （Transformer）  |[《Permutation Equivariance of Transformers and Its Applications》 (CVPR 2024）](https://arxiv.org/abs/2304.07735)  
 |2025.09.19|Yanfan Zhu  <br>  （3D Object Reconstruction）  |[《Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model》 (ICLR2025）](https://arxiv.org/abs/2410.13882)  
-|2025.09.19|Yanfan  <br>  （Generative Vision）  |[《4K4DGen: Panoramic 4D Generation at 4K Resolution》 (ICLR2025）](https://arxiv.org/abs/2406.13527) 
+|2025.09.19|Yanfan Zhu <br>  （Generative Vision）  |[《4K4DGen: Panoramic 4D Generation at 4K Resolution》 (ICLR2025）](https://arxiv.org/abs/2406.13527) 
 |2025.09.19|Yanfan Zhu  <br>  （Monocular Depth Estimation）  |[《Depth Pro: Sharp Monocular Metric Depth in Less Than a Second》 (ICLR2025）](https://arxiv.org/abs/2410.02073)
 |2025.09.12|Junchao Zhu  <br>  （Vision Language Model）  |[《Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models》 (ICLR2025）](https://arxiv.org/abs/2404.07983)  
 |2025.09.12|Junchao Zhu  <br>  （Vision Language Model）  |[《Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation》 (ICLR2025）](https://proceedings.iclr.cc/paper_files/paper/2025/hash/8c96b559340daa7bb29f56ccfbbc9c2f-Abstract-Conference.html) 
