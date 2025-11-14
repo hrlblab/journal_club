@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.11.14|Junchao Zhu  <br>  （Large-language Model）  |[《Glyph: Scaling Context Windows via Visual-Text Compression》](https://arxiv.org/pdf/2510.17800) 
+|2025.11.14|Junchao Zhu  <br>  （Vision-language Model）  |[《VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection(CVPR 2025）》](https://arxiv.org/pdf/2411.14794)
+|2025.11.14|Junchao Zhu  <br>  （Vision-language Model）  |[《DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction》(ICCV 2025）](https://arxiv.org/html/2412.06244v3)
 |2025.11.09|Yanfan Zhu  <br>  （3D Reconstruction）  |[《Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging》 (MICCAI 2025）](https://papers.miccai.org/miccai-2025/0845-Paper5171.html) 
 |2025.11.09|Yanfan Zhu <br>  （3D Reconstruction）  |[《Robust 3D Shape Reconstruction in Zero-Shot from a Single Image in the Wild》 (CVPR2025）](https://arxiv.org/abs/2403.14539) 
 |2025.11.09|Yanfan Zhu  <br>  （3D Reconstruction）  |[《Wonder3D++: Cross-domain Diffusion for High-fidelity 3D Generation from a Single Image》 (Arxiv）](https://arxiv.org/abs/2511.01767)
