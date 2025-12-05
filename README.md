@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.12.05|Yuechen Yang  <br>  （Diffusion Model）  |[《Back to Basics: Let Denoising Generative Models Denoise》](https://arxiv.org/abs/2511.13720)
+|2025.12.05|Yuechen Yang  <br>  （Vision Model）  |[《ARC Is a Vision Problem》](https://arxiv.org/abs/2511.14761) 
+|2025.12.05|Yuechen Yang  <br>  （LLMs）  |[《Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)》](https://arxiv.org/abs/2510.22954) 
 |2025.11.14|Junchao Zhu  <br>  （Large-language Model）  |[《Glyph: Scaling Context Windows via Visual-Text Compression》](https://arxiv.org/pdf/2510.17800) 
 |2025.11.14|Junchao Zhu  <br>  （Vision-language Model）  |[《VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection(CVPR 2025）》](https://arxiv.org/pdf/2411.14794)
 |2025.11.14|Junchao Zhu  <br>  （Vision-language Model）  |[《DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction》(ICCV 2025）](https://arxiv.org/html/2412.06244v3)
