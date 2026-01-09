@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.01.08|Zhengyi Lu    <br>  （Agent Evaluation）  |[《Agent-as-a-Judge: Evaluate Agents with Agents》 (ICML 2025）](https://arxiv.org/pdf/2410.10934) 
+|2026.01.08|Zhengyi Lu    <br>  （VLM Reasoning）  |[《More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models》 (ArXiv）](https://www.arxiv.org/pdf/2509.25848)  
+|2026.01.08|Zhengyi Lu    <br>  （MLLM Reasoning）  |[《OneThinker: All-in-one Reasoning Model for Image and Video》 (ArXiv）](https://arxiv.org/pdf/2512.03043)
 |2025.12.05|Yuechen Yang  <br>  （Diffusion Model）  |[《Back to Basics: Let Denoising Generative Models Denoise》](https://arxiv.org/abs/2511.13720)
 |2025.12.05|Yuechen Yang  <br>  （Vision Model）  |[《ARC Is a Vision Problem》](https://arxiv.org/abs/2511.14761) 
 |2025.12.05|Yuechen Yang  <br>  （LLMs）  |[《Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)》](https://arxiv.org/abs/2510.22954) 
