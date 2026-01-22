@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.01.16|Yanfan Zhu  <br>  （Segmentation）  |[《SAM 3: Segment Anything with Concepts》 (ICLR 2026）](https://openreview.net/forum?id=r35clVtGzw)
+|2026.01.16|Yanfan Zhu <br>  （Segmentation）  |[《SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation》 (ICLR 2026）](https://openreview.net/forum?id=oN55r8iJJW)
+|2026.01.16|Yanfan Zhu  <br>  （Segmentation）  |[《LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images》 (Arxiv）](https://arxiv.org/abs/2601.03163)
 |2026.01.08|Zhengyi Lu    <br>  （Agent Evaluation）  |[《Agent-as-a-Judge: Evaluate Agents with Agents》 (ICML 2025）](https://arxiv.org/pdf/2410.10934) 
 |2026.01.08|Zhengyi Lu    <br>  （VLM Reasoning）  |[《More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models》 (ArXiv）](https://www.arxiv.org/pdf/2509.25848)  
 |2026.01.08|Zhengyi Lu    <br>  （MLLM Reasoning）  |[《OneThinker: All-in-one Reasoning Model for Image and Video》 (ArXiv）](https://arxiv.org/pdf/2512.03043)
