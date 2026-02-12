@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.02.06|Junlin Guo  <br>  （Agents）  |[《PaperBanana: Automating Academic Illustration for AI Scientists》 (Arxiv 2026）](https://arxiv.org/abs/2601.23265)
+|2026.02.06|Junlin Guo  <br>  （CoT & VLM）  |[《PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization》 (Arxiv 2026）](https://arxiv.org/abs/2601.21617)
+|2026.02.06|Junlin Guo  <br>  （Pretraining & Localization）  |[《A multimodal vision–language model for generalizable annotation-free pathology localization》 (Nature biomedical engineering 2026）](https://www.nature.com/articles/s41551-025-01574-7#Sec16)
 |2026.01.16|Yanfan Zhu  <br>  （Segmentation）  |[《SAM 3: Segment Anything with Concepts》 (ICLR 2026）](https://openreview.net/forum?id=r35clVtGzw)
 |2026.01.16|Yanfan Zhu <br>  （Segmentation）  |[《SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation》 (ICLR 2026）](https://openreview.net/forum?id=oN55r8iJJW)
 |2026.01.16|Yanfan Zhu  <br>  （Segmentation）  |[《LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images》 (Arxiv）](https://arxiv.org/abs/2601.03163)
