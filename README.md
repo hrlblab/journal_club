@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.02.13|Junchao Zhu  <br>  （LLM）  |[《NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation》 (ICLR 2026）](https://arxiv.org/abs/2509.25179)
+|2026.02.13|Junchao Zhu  <br>  （Agents）  |[《Open-World Reinforcement Learning over Long Short-Term Imagination》 (ICLR 2025）](https://arxiv.org/abs/2410.03618)
+|2026.02.13|Junchao Zhu  <br>  （LLM）  |[《LLM DNA: Tracing Model Evolution via Functional Representations》 (ICLR 2026）](https://arxiv.org/abs/2509.24496)
 |2026.02.06|Junlin Guo  <br>  （Agents）  |[《PaperBanana: Automating Academic Illustration for AI Scientists》 (Arxiv 2026）](https://arxiv.org/abs/2601.23265)
 |2026.02.06|Junlin Guo  <br>  （CoT & VLM）  |[《PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization》 (Arxiv 2026）](https://arxiv.org/abs/2601.21617)
 |2026.02.06|Junlin Guo  <br>  （Pretraining & Localization）  |[《A multimodal vision–language model for generalizable annotation-free pathology localization》 (Nature biomedical engineering 2026）](https://www.nature.com/articles/s41551-025-01574-7#Sec16)
