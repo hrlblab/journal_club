@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Honey Differentiation Using Infrared and Raman Spectroscopy Analysis and the Employment of Machine-Learning-Based Authentication Models》 (2026）](https://pmc.ncbi.nlm.nih.gov/articles/PMC11941707/pdf/foods-14-01032.pdf)
+|2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Machine learning-assisted Raman spectroscopy for non-destructive analysis of crude palm oil quality》 (2026）](https://www.nature.com/articles/s41538-025-00688-1)
+|2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Raman on the palm: handheld Raman spectroscopy for enhanced traceability of palm oil》 (2025）](https://www.nature.com/articles/s41538-025-00462-3)
 |2026.02.13|Junchao Zhu  <br>  （LLM）  |[《NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation》 (ICLR 2026）](https://arxiv.org/abs/2509.25179)
 |2026.02.13|Junchao Zhu  <br>  （Agents）  |[《Open-World Reinforcement Learning over Long Short-Term Imagination》 (ICLR 2025）](https://arxiv.org/abs/2410.03618)
 |2026.02.13|Junchao Zhu  <br>  （LLM）  |[《LLM DNA: Tracing Model Evolution via Functional Representations》 (ICLR 2026）](https://arxiv.org/abs/2509.24496)
