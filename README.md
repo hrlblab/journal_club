@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.03.27|Zhengyi Lu    <br>  （Generation）  |[《Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models》 (ICLR 2026）](https://arxiv.org/abs/2602.15772) 
+|2026.03.27|Zhengyi Lu    <br>  （Efficient Reasoning）  |[《Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models》 (NeurlPS 2025）](https://arxiv.org/abs/2505.16854)  
+|2026.03.27|Zhengyi Lu    <br>  （Efficient Reasoning）  |[《ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning》 (NeurlPS 2025）](https://arxiv.org/abs/2504.21370)
 |2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Honey Differentiation Using Infrared and Raman Spectroscopy Analysis and the Employment of Machine-Learning-Based Authentication Models》 (2026）](https://pmc.ncbi.nlm.nih.gov/articles/PMC11941707/pdf/foods-14-01032.pdf)
 |2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Machine learning-assisted Raman spectroscopy for non-destructive analysis of crude palm oil quality》 (2026）](https://www.nature.com/articles/s41538-025-00688-1)
 |2026.03.20|Marilyn Lionts  <br>  （Raman in Food Science）  |[《Raman on the palm: handheld Raman spectroscopy for enhanced traceability of palm oil》 (2025）](https://www.nature.com/articles/s41538-025-00462-3)
