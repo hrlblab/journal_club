@@ -10,9 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2026.04.10|Junlin Guo  <br>  （Deep Fake）  |[《The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts》 (CVPR）](https://arxiv.org/abs/2505.17476)
-|2026.04.10|Junlin Guo  <br>  （VLM Foundation Models）  |[《Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model》 (CVPR）](https://arxiv.org/abs/2603.05012)
-|2026.04.10|Junlin Guo  <br>  （VLM Hallucinations）  |[《Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding》 (CVPR）](https://arxiv.org/abs/2603.13366)
+|2026.04.10|Junlin Guo  <br>  （Deep Fake）  |[《The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts》 (CVPR 2026）](https://arxiv.org/abs/2505.17476)
+|2026.04.10|Junlin Guo  <br>  （VLM Foundation Models）  |[《Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model》 (CVPR 2026）](https://arxiv.org/abs/2603.05012)
+|2026.04.10|Junlin Guo  <br>  （VLM Hallucinations）  |[《Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding》 (CVPR 2026）](https://arxiv.org/abs/2603.13366)
 |2026.04.03|Yanfan Zhu  <br>  （Selective Classifier）  |[《What Does It Take to Build a Performant Selective Classifier?》 (NeurlPS）](https://arxiv.org/abs/2510.20242)
 |2026.04.03|Yanfan Zhu <br>  （LLM Abstein）  |[《MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions》 (AAAI 2026）](https://arxiv.org/abs/2507.21503)
 |2026.04.03|Yanfan Zhu  <br>  （OOD Detection）  |[《Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection》 (CVPR 2025）](https://arxiv.org/pdf/2503.18784)
