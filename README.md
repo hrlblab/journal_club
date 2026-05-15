@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.05.07|Zhengyi Lu    <br>  （RL in LLM）  |[《PretrainZero: Reinforcement Active Pretraining》 (ICML 2026）](https://arxiv.org/abs/2512.03442) 
+|2026.05.07|Zhengyi Lu    <br>  （RL in LLM）  |[《Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning》 (ICML 2026）](https://arxiv.org/abs/2507.21892)  
+|2026.05.07|Zhengyi Lu    <br>  （RL in LLM）  |[《Solving Physics Olympiad via Reinforcement Learning on Physics Simulators》 (ICML 2026）](https://arxiv.org/abs/2604.11805)
 |2026.04.10|Junlin Guo  <br>  （Deep Fake）  |[《The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts》 (CVPR 2026）](https://arxiv.org/abs/2505.17476)
 |2026.04.10|Junlin Guo  <br>  （VLM Foundation Models）  |[《Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model》 (CVPR 2026）](https://arxiv.org/abs/2603.05012)
 |2026.04.10|Junlin Guo  <br>  （VLM Hallucinations）  |[《Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding》 (CVPR 2026）](https://arxiv.org/abs/2603.13366)
