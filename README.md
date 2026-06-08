@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.06.05|Yanfan Zhu  <br>  （Agents）  |[《LightMem: Lightweight and Efficient Memory-Augmented Generation》 (ICLR_2026）](https://arxiv.org/abs/2510.18866)
+|2026.06.05|Yanfan Zhu <br>  （Agents）  |[《Continual Harness: Online Adaptation for Self-Improving Foundation Agents》 (arXive）](https://arxiv.org/abs/2605.09998)
+|2026.06.05|Yanfan Zhu  <br>  （Agents）  |[《OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models》 (WWW_2026）](https://arxiv.org/abs/2601.12996)
 |2026.05.15|Marilyn Lionts    <br>  （DNA Barcoding）  |[《DNA barcoding increases the taxonomic resolution of shark diet analysis compared to morphological stomach contents identification》 (2026)](https://doi.org/10.1007/s12686-026-01432-x) 
 |2026.05.15|Marilyn Lionts    <br>  （CT for Food Science）  |[《Morphometric Characterization Workflows of Praline Chocolates using X-ray Computed Tomography》 (2026）](https://doi.org/10.1007/s11483-026-10140-w) 
 |2026.05.15|Marilyn Lionts    <br>  (Spectroscopy for Food Science)  |[《Analytical Chemistry Nutritional Insights: Exploring ED-XRF, LIBS, and Chemometric Techniques for Macronutrient Determination in Non-conventional Food Plants (PANC)》 (2026）](https://link.springer.com/article/10.1007/s12686-026-01432-x) 
