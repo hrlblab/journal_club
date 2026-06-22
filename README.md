@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.06.12|Chongyu Qu  <br>  （Efficient Agents）  |[《Speculative Actions: A Lossless Framework for Faster Agentic Systems》 (ICLR 2026 Oral）](https://arxiv.org/abs/2510.04371)
+|2026.06.12|Chongyu Qu <br>  （Efficient Agents）  |[《Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents》 (NeurIPS 2025）](https://arxiv.org/abs/2506.14852)
+|2026.06.12|Chongyu Qu  <br>  （Efficient Agents）  |[《MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents》 (ICLR 2026）](https://arxiv.org/abs/2506.15841)
 |2026.06.05|Yanfan Zhu  <br>  （Agents）  |[《LightMem: Lightweight and Efficient Memory-Augmented Generation》 (ICLR_2026）](https://arxiv.org/abs/2510.18866)
 |2026.06.05|Yanfan Zhu <br>  （Agents）  |[《Continual Harness: Online Adaptation for Self-Improving Foundation Agents》 (arXive）](https://arxiv.org/abs/2605.09998)
 |2026.06.05|Yanfan Zhu  <br>  （Agents）  |[《OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models》 (WWW_2026）](https://arxiv.org/abs/2601.12996)
