@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.07.17|Junchao Zhu  <br>  （Agent）  |[《MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision》 (arXive）](https://arxiv.org/abs/2606.17162)
+|2026.07.17|Junchao Zhu  <br>  （Agent）  |[《Recursive Multi-Agent Systems》 (arXive）](https://arxiv.org/abs/2604.25917)
+|2026.07.17|Junchao Zhu  <br>  （LLM）  |[《Does Your Reasoning Model Implicitly Know When to Stop Thinking?》 (ICML 2026）](https://arxiv.org/abs/2602.08354)
 |2026.06.12|Chongyu Qu  <br>  （Efficient Agents）  |[《Speculative Actions: A Lossless Framework for Faster Agentic Systems》 (ICLR 2026 Oral）](https://arxiv.org/abs/2510.04371)
 |2026.06.12|Chongyu Qu <br>  （Efficient Agents）  |[《Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents》 (NeurIPS 2025）](https://arxiv.org/abs/2506.14852)
 |2026.06.12|Chongyu Qu  <br>  （Efficient Agents）  |[《MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents》 (ICLR 2026）](https://arxiv.org/abs/2506.15841)
