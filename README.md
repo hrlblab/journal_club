@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.07.24|Yanfan Zhu  <br>  （Egocentric）  |[《Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos》 (CVPR_2024）](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Progress-Aware_Online_Action_Segmentation_for_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html)
+|2026.07.24|Yanfan Zhu <br>  （Egocentric）  |[《Egocentric Online Action Segmentation via Evidential Temporal Contextualization》 (IEEE Transactions on Multimedia 2026）](https://ieeexplore.ieee.org/abstract/document/11489507?casa_token=bIWKt3L5JfsAAAAA:KrLlqEXKJeHVy2S4wAIXhtz_DPti-xoocLX0-DomCworiuqxKyWSE51ak5Gp-bYfIkBy1NIiEQ)
+|2026.07.24|Yanfan Zhu  <br>  （Egocentric）  |[《Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering》 (CVPR_2026）](https://arxiv.org/abs/2603.12533)
 |2026.07.17|Junchao Zhu  <br>  （Agent）  |[《MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision》 (arXive）](https://arxiv.org/abs/2606.17162)
 |2026.07.17|Junchao Zhu  <br>  （Agent）  |[《Recursive Multi-Agent Systems》 (arXive）](https://arxiv.org/abs/2604.25917)
 |2026.07.17|Junchao Zhu  <br>  （LLM）  |[《Does Your Reasoning Model Implicitly Know When to Stop Thinking?》 (ICML 2026）](https://arxiv.org/abs/2602.08354)
