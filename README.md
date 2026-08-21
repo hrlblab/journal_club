@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.08.21|Junchao Zhu  <br>  （Agent）  |[《SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries》 (ArXiv）](https://arxiv.org/abs/2608.05604)
+|2026.08.21|Junchao Zhu  <br>  （MLLM）  |[《Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation》 (ArXiv）](https://arxiv.org/abs/2607.11886)
+|2026.08.21|Junchao Zhu  <br>  （Auto-research）  |[《Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill》 (ArXiv）](https://arxiv.org/abs/2608.11924)
 |2026.07.31|Chongyu Qu  <br>  （KV Cache Quantization）  |[《PatternKV: Flattening KV Representation Expands Quantization Headroom》 (ICML 2026）](https://arxiv.org/abs/2510.05176)
 |2026.07.31|Chongyu Qu  <br>  （Agentic Memory）  |[《ACON: Optimizing Context Compression for Long-horizon LLM Agents》 (ICML 2026）](https://arxiv.org/abs/2510.00615)
 |2026.07.31|Chongyu Qu  <br>  （Agentic Memory）  |[《MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent》 (ICLR 2026 Oral）](https://arxiv.org/abs/2507.02259)
