@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates》 (ICML 2026 Spotlight）](https://arxiv.org/abs/2601.18510)
+|2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning》 (ICML 2026）](https://arxiv.org/abs/2601.21468)
+|2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning》 (ICML 2026）](https://arxiv.org/abs/2602.10560)
 |2026.08.21|Junchao Zhu  <br>  （Agent）  |[《SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries》 (ArXiv）](https://arxiv.org/abs/2608.05604)
 |2026.08.21|Junchao Zhu  <br>  （MLLM）  |[《Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation》 (ArXiv）](https://arxiv.org/abs/2607.11886)
 |2026.08.21|Junchao Zhu  <br>  （Auto-research）  |[《Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill》 (ArXiv）](https://arxiv.org/abs/2608.11924)
