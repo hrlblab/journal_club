@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Controllable Video Generation with Provable Disentanglement》 (ICLR 2026）](https://arxiv.org/abs/2502.02690)
+|2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Learning Patient-Specific Disease Dynamics With Latent Flow Matching For Longitudinal Imaging Generation》 (ICLR 2026）](https://arxiv.org/abs/2512.09185)
+|2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Learning and diSentangling patient static information from time-series Electronic hEalth Records (STEER)》 (2024）](https://doi.org/10.1371/journal.pdig.0000640)
 |2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates》 (ICML 2026 Spotlight）](https://arxiv.org/abs/2601.18510)
 |2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning》 (ICML 2026）](https://arxiv.org/abs/2601.21468)
 |2026.09.04|Chongyu Qu  <br>  （Agentic Memory）  |[《When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning》 (ICML 2026）](https://arxiv.org/abs/2602.10560)
