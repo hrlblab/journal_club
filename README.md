@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.02|Junchao Zhu  <br>  （LLM）  |[《Dissecting Failure Dynamics in Large Language Model Reasoning》 (ACL 2026）](https://arxiv.org/abs/2604.14528)
+|2026.10.02|Junchao Zhu  <br>  （MLLM）  |[《AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition》 (CVPR 2026）](https://arxiv.org/abs/2512.03794)
+|2026.10.02|Junchao Zhu  <br>  （MLLM）  |[《Play to Generalize: Learning to Reason Through Game Play》 (ICLR 2026）](https://arxiv.org/abs/2506.08011)
 |2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Controllable Video Generation with Provable Disentanglement》 (ICLR 2026）](https://arxiv.org/abs/2502.02690)
 |2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Learning Patient-Specific Disease Dynamics With Latent Flow Matching For Longitudinal Imaging Generation》 (ICLR 2026）](https://arxiv.org/abs/2512.09185)
 |2026.09.16|Marilyn Lionts  <br>  （Latent Disentangelment）  |[《Learning and diSentangling patient static information from time-series Electronic hEalth Records (STEER)》 (2024）](https://doi.org/10.1371/journal.pdig.0000640)
