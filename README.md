@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions》 (CVPR 2026）](https://arxiv.org/abs/2509.11334)
+|2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Multi spectral visible-thermal IR image translation using improved u-net & conditional diffusion》 ](https://www.sciencedirect.com/science/article/pii/S0925231225016789?via%3Dihub)
+|2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Deep Swin U-Net with Spatial and Channel Attention for Breast Tumor Segmentation in Infrared Images》 (SENNET 2025）](https://ieeexplore.ieee.org/abstract/document/11135940)
 |2026.10.02|Junchao Zhu  <br>  （LLM）  |[《Dissecting Failure Dynamics in Large Language Model Reasoning》 (ACL 2026）](https://arxiv.org/abs/2604.14528)
 |2026.10.02|Junchao Zhu  <br>  （MLLM）  |[《AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition》 (CVPR 2026）](https://arxiv.org/abs/2512.03794)
 |2026.10.02|Junchao Zhu  <br>  （MLLM）  |[《Play to Generalize: Learning to Reason Through Game Play》 (ICLR 2026）](https://arxiv.org/abs/2506.08011)
