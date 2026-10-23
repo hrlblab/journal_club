@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.23|Chongyu Qu  <br>  （Spatial Reasoning）  |[《SpatialASM: Internalizing Active Mentalization for Spatial Reasoning》(ArXiv) ](https://arxiv.org/abs/2610.13832v1)
+|2026.10.23|Chongyu Qu  <br>  （Agentic Memory）  |[《Artificial Hippocampus Networks for Efficient Long-Context Modeling》(ICML 2026) ](https://arxiv.org/abs/2510.07318)
+|2026.10.23|Chongyu Qu  <br>  （Agentic Memory）  |[《MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory》(NeurIPS 2026) ](https://arxiv.org/abs/2601.03192)
 |2026.10.16|Yanfan Zhu  <br>  （World Model）  |[《WorldGym: World Model as An Environment for Policy Evaluation》 ](https://arxiv.org/abs/2506.00613)
 |2026.10.16|Yanfan Zhu <br>  （World Model）  |[《VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model》](https://arxiv.org/abs/2602.12063)
 |2026.10.16|Yanfan Zhu  <br>  （World Model）  |[《World-in-World: World Models in a Closed-Loop World》](https://arxiv.org/abs/2510.18135)
