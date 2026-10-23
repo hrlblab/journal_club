@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.16|Yanfan Zhu  <br>  （World Model）  |[《WorldGym: World Model as An Environment for Policy Evaluation》 ](https://arxiv.org/abs/2506.00613)
+|2026.10.16|Yanfan Zhu <br>  （World Model）  |[《VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model》](https://arxiv.org/abs/2602.12063)
+|2026.10.16|Yanfan Zhu  <br>  （World Model）  |[《World-in-World: World Models in a Closed-Loop World》](https://arxiv.org/abs/2510.18135)
 |2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions》 (CVPR 2026）](https://arxiv.org/abs/2509.11334)
 |2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Multi spectral visible-thermal IR image translation using improved u-net & conditional diffusion》 ](https://www.sciencedirect.com/science/article/pii/S0925231225016789?via%3Dihub)
 |2026.10.09|Aaron Li  <br>  （Thermal Imaging）  |[《Deep Swin U-Net with Spatial and Channel Attention for Breast Tumor Segmentation in Infrared Images》 (SENNET 2025）](https://ieeexplore.ieee.org/abstract/document/11135940)
