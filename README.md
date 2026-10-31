@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation》(CVPR2026)](https://arxiv.org/pdf/2604.21772)
+|2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Test-Time Modification: Inverse Domain Transformation for Robust Perception》(ArXiv)](https://arxiv.org/pdf/2512.13454)
+|2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration》(CVPR2026)](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Degradation-Consistent_Test-Time_Adaptation_for_All-in-One_Image_Restoration_CVPR_2026_paper.pdf).
 |2026.10.23|Chongyu Qu  <br>  （Spatial Reasoning）  |[《SpatialASM: Internalizing Active Mentalization for Spatial Reasoning》(ArXiv) ](https://arxiv.org/abs/2610.13832v1)
 |2026.10.23|Chongyu Qu  <br>  （Agentic Memory）  |[《Artificial Hippocampus Networks for Efficient Long-Context Modeling》(ICML 2026) ](https://arxiv.org/abs/2510.07318)
 |2026.10.23|Chongyu Qu  <br>  （Agentic Memory）  |[《MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory》(NeurIPS 2026) ](https://arxiv.org/abs/2601.03192)
