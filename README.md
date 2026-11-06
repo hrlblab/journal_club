@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.11.5|Marilyn Lionts  <br>  （Multimodal Spectroscopy）  |[《SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings》(ICML 2026)](https://raw.githubusercontent.com/mlresearch/v306/main/assets/qin26b/qin26b.pdf)
+|2026.11.5|Marilyn Lionts  <br>  （Artificial Olfaction）  |[《SmellNet: A Dataset for Sensor-Based Smell Recognition and Mixture Prediction》(ICLR 2026)](https://arxiv.org/pdf/2506.00239)
+|2026.11.5|Marilyn Lionts  <br>  （Artificial Olfaction）  |[《Towards robust medical machine olfaction: Debiasing GC-MS data enhances prostate cancer diagnosis from urine volatiles》(2025)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314742)
 |2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation》(CVPR2026)](https://arxiv.org/pdf/2604.21772)
 |2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Test-Time Modification: Inverse Domain Transformation for Robust Perception》(ArXiv)](https://arxiv.org/pdf/2512.13454)
 |2026.10.30|Yuechen Yang  <br>  （TTA）  |[《Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration》(CVPR2026)](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Degradation-Consistent_Test-Time_Adaptation_for_All-in-One_Image_Restoration_CVPR_2026_paper.pdf).
