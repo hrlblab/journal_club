@@ -10,6 +10,9 @@ Agenda
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.11.13|Zhengyi Lu    <br>  （Amodal Segmentation）  |[《Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer》(ICML 2026）](https://openreview.net/forum?id=J4XPu4PfxP) 
+|2026.11.13|Zhengyi Lu    <br>  （3D Reconstruction）  |[《WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting》 (ICML 2026）](https://openreview.net/forum?id=HFNJOpXHfm)  
+|2026.11.135|Zhengyi Lu    <br>  （Multimodal Reasoning）  |[《Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning》 ](https://openreview.net/forum?id=duzdftKtUA)
 |2026.11.5|Marilyn Lionts  <br>  （Multimodal Spectroscopy）  |[《SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings》(ICML 2026)](https://raw.githubusercontent.com/mlresearch/v306/main/assets/qin26b/qin26b.pdf)
 |2026.11.5|Marilyn Lionts  <br>  （Artificial Olfaction）  |[《SmellNet: A Dataset for Sensor-Based Smell Recognition and Mixture Prediction》(ICLR 2026)](https://arxiv.org/pdf/2506.00239)
 |2026.11.5|Marilyn Lionts  <br>  （Artificial Olfaction）  |[《Towards robust medical machine olfaction: Debiasing GC-MS data enhances prostate cancer diagnosis from urine volatiles》(2025)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314742)
